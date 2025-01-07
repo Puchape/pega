@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "b8d2460a-1123-336e-8277-a1d703ded61e",
+    "name": "aurusps",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "b00ba66e-e248-30c5-9022-f93c46adeb3b",
     "name": "ItsShadowXx",
     "level": 4,

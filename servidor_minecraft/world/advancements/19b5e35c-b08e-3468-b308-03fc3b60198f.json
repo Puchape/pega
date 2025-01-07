@@ -2788,27 +2788,57 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-07 04:37:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_pickaxe_repairing": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-01-07 04:37:15 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/tiki_torches": {
+    "criteria": {
+      "has_the_recipe": "2025-01-07 04:37:15 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lantern": {
+    "criteria": {
+      "has_the_recipe": "2025-01-07 04:37:15 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/paper_lamp": {
+    "criteria": {
+      "has_the_recipe": "2025-01-07 04:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-01-07 04:37:15 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-01-07 04:39:46 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2025-01-07 04:40:33 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/emerald_gear_helmet": {
     "criteria": {
       "has_emerald": "2025-01-07 04:40:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/golden_apple": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_boots": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/daggers/dagger_the_beginning": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
     },
     "done": true
   },
@@ -2818,57 +2848,9 @@
     },
     "done": true
   },
-  "mcdw:recipes/crossbows/crossbow_nautical_crossbow": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/swords/sword_masters_katana": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/golden_knife": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:31 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/shields/shield_tower_guard": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/spears/spear_fortune": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gold_block": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-01-07 04:40:36 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/hourglass": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/crossbows/crossbow_slicer": {
-    "criteria": {
-      "has_base": "2025-01-07 04:42:11 +0000"
     },
     "done": true
   },
@@ -2881,12 +2863,6 @@
   "mcdw:recipes/bows/bow_pink_scoundrel": {
     "criteria": {
       "has_gunpowder": "2025-01-07 04:40:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_helmet": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
     },
     "done": true
   },
@@ -2908,63 +2884,9 @@
     },
     "done": true
   },
-  "mcdw:recipes/crossbows/crossbow_azure_seeker": {
-    "criteria": {
-      "has_base": "2025-01-07 04:42:11 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/swords/sword_beestinger": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/redstone": {
     "criteria": {
       "has_redstone": "2025-01-07 04:40:36 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_lighthouse": {
-    "criteria": {
-      "location0": "2025-01-07 04:41:04 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/swords/sword_frost_slayer": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-07 04:42:31 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/sickles/sickle_last_laugh_gold": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/evocation_robe_helmet": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/evocation_robe_chestplate": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-01-07 04:37:15 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/gold_door": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:31 +0000"
     },
     "done": true
   },
@@ -2974,33 +2896,9 @@
     },
     "done": true
   },
-  "mcdw:recipes/crossbows/crossbow_rapid": {
-    "criteria": {
-      "has_base": "2025-01-07 04:42:11 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_pendant": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
   "mcda:recipes/crafting_items/gemstone_red": {
     "criteria": {
       "has_redstone": "2025-01-07 04:40:36 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/gauntlets/gauntlet_soul_fist": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "mcde:recipes/decorations/gilding_foundry": {
-    "criteria": {
-      "has_gold": "2025-01-07 04:42:30 +0000"
     },
     "done": true
   },
@@ -3010,81 +2908,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_axe": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2025-01-07 04:40:36 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/stone_pickaxe_repairing": {
-    "criteria": {
-      "has_stone_pickaxe": "2025-01-07 04:37:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-01-07 04:42:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:31 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/crossbows/crossbow_burst": {
-    "criteria": {
-      "has_base": "2025-01-07 04:42:11 +0000"
-    },
-    "done": true
-  },
-  "dimdoors:recipes/misc/gold_door": {
-    "criteria": {
-      "inventory_changed": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/crossbows/crossbow_exploding": {
-    "criteria": {
-      "has_base": "2025-01-07 04:42:11 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/battle_robe_chestplate": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/crossbows/crossbow_harp": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/crossbows/crossbow_heavy": {
-    "criteria": {
-      "has_base": "2025-01-07 04:42:11 +0000"
-    },
-    "done": true
-  },
-  "mcwlights:recipes/tiki_torches": {
-    "criteria": {
-      "has_the_recipe": "2025-01-07 04:37:15 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/gold_chandelier": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
     },
     "done": true
   },
@@ -3100,27 +2926,9 @@
     },
     "done": true
   },
-  "nova_structures:adventure/find_all_illager_structures": {
-    "criteria": {
-      "illager_camp": "2025-01-07 04:39:46 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-01-07 04:42:32 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/redstone/raw_redstone_block": {
     "criteria": {
       "has_redstone": "2025-01-07 04:40:36 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/shulker_armor_chestplate": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
     },
     "done": true
   },
@@ -3130,189 +2938,15 @@
     },
     "done": true
   },
-  "supplementaries:recipes/key": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/daggers/dagger_the_end": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_gloves": {
-    "criteria": {
-      "has_gold": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/daggers/dagger_backstabber": {
-    "criteria": {
-      "has_gold_nugget": "2025-01-07 04:42:32 +0000"
-    },
-    "done": true
-  },
-  "mcwlights:recipes/lantern": {
-    "criteria": {
-      "has_the_recipe": "2025-01-07 04:37:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/crossbows/crossbow_slayer": {
-    "criteria": {
-      "has_base": "2025-01-07 04:42:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_shovel": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/daggers/dagger_resolute_tempest_knife": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/shields/shield_royal_guard": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_chestplate": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:31 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/gold": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/spelunker_armor_helmet": {
-    "criteria": {
-      "has_torch": "2025-01-07 04:41:12 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_ring": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/end_stone_smelter": {
-    "criteria": {
-      "has_tag_c_furnaces": "2025-01-07 04:42:03 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/bows/bow_sabrewing": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_sword": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/bows/bow_echo_of_the_valley": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-01-07 04:41:30 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/evocation_robe_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2025-01-07 04:41:22 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/bouquet": {
-    "criteria": {
-      "has_item": "2025-01-07 04:41:30 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/bridge_torch": {
-    "criteria": {
-      "has_planks": "2025-01-07 04:41:12 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/bows/bow_burst_gale_bow": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
   "mcdw:recipes/swords/sword_hawkbrand_vanilla_sword": {
     "criteria": {
       "has_emerald": "2025-01-07 04:40:36 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/gold_trapdoor": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/daggers/dagger_chill_gale_knife": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2025-01-07 04:42:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-01-07 04:40:36 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/swords/sword_broken_sawblade": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:31 +0000"
     },
     "done": true
   },
@@ -3328,39 +2962,9 @@
     },
     "done": true
   },
-  "mcwlights:recipes/paper_lamp": {
-    "criteria": {
-      "has_the_recipe": "2025-01-07 04:37:15 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/crossbows/crossbow_soul": {
-    "criteria": {
-      "has_base": "2025-01-07 04:42:11 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/glaives/spear_grave_bane": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-01-07 04:40:36 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/gold_tier_upgrade": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_hoe": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
     },
     "done": true
   },
@@ -3370,45 +2974,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
-    "criteria": {
-      "has_log": "2025-01-07 04:41:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-01-07 04:40:36 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/acacia_branch_from_acacia_log": {
-    "criteria": {
-      "has_log": "2025-01-07 04:41:22 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/vanguard_armor_helmet": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
   "bclib:recipes/tools/tag_compass": {
     "criteria": {
       "has_redstone": "2025-01-07 04:40:36 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/acacia": {
-    "criteria": {
-      "has_wood": "2025-01-07 04:41:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_pickaxe": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
     },
     "done": true
   },
@@ -3421,12 +2995,6 @@
   "supplementaries:recipes/spring_launcher": {
     "criteria": {
       "has_gunpowder": "2025-01-07 04:40:36 +0000"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/acacia": {
-    "criteria": {
-      "has_wood": "2025-01-07 04:41:22 +0000"
     },
     "done": true
   },
@@ -3454,21 +3022,9 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/whispering_gourd_lantern": {
-    "criteria": {
-      "has_torch": "2025-01-07 04:41:12 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/ash": {
     "criteria": {
       "has_gunpowder": "2025-01-07 04:40:36 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/bows/bow_bubble_burster": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
     },
     "done": true
   },
@@ -3478,21 +3034,9 @@
     },
     "done": true
   },
-  "mcda:recipes/base_armors/battle_robe_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-01-07 04:40:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/ol_betsy": {
-    "criteria": {
-      "shot_crossbow": "2025-01-07 04:42:12 +0000"
     },
     "done": true
   },
@@ -3509,81 +3053,15 @@
     },
     "done": true
   },
-  "vinery:recipes/vinemaker_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-01-07 04:40:36 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/stone_sword_repairing": {
-    "criteria": {
-      "has_stone_sword": "2025-01-07 04:40:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-01-07 04:40:36 +0000"
-    },
-    "done": true
-  },
-  "mcwlights:recipes/gold_stuff": {
-    "criteria": {
-      "has_wood": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/daggers/dagger_moon": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sconce": {
-    "criteria": {
-      "has_torch": "2025-01-07 04:41:12 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/swords/sword_cutlass": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/shortbows/bow_love_spell_bow": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/bows/bow_elite_power_bow": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/crossbows/crossbow_voidcaller_crossbow": {
-    "criteria": {
-      "has_base": "2025-01-07 04:42:11 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/crossbows/crossbow_shadow_crossbow": {
-    "criteria": {
-      "has_base": "2025-01-07 04:42:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/torch": {
-    "criteria": {
-      "has_stone_pickaxe": "2025-01-07 04:37:15 +0000"
     },
     "done": true
   },
@@ -3611,27 +3089,9 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/acacia_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-01-07 04:41:22 +0000"
-    },
-    "done": true
-  },
   "mcda:recipes/base_armors/emerald_gear_boots": {
     "criteria": {
       "has_emerald": "2025-01-07 04:40:36 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/staves/staff_growing_staff": {
-    "criteria": {
-      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/stone_axe_repairing": {
-    "criteria": {
-      "has_stone_axe": "2025-01-07 04:40:58 +0000"
     },
     "done": true
   },
@@ -3641,9 +3101,777 @@
     },
     "done": true
   },
+  "aether:recipes/tools/stone_axe_repairing": {
+    "criteria": {
+      "has_stone_axe": "2025-01-07 04:40:58 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-01-07 04:41:04 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/spelunker_armor_helmet": {
+    "criteria": {
+      "has_torch": "2025-01-07 04:41:12 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bridge_torch": {
+    "criteria": {
+      "has_planks": "2025-01-07 04:41:12 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/whispering_gourd_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-07 04:41:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2025-01-07 04:41:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-01-07 04:41:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-01-07 04:41:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/acacia_branch_from_acacia_log": {
+    "criteria": {
+      "has_log": "2025-01-07 04:41:22 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-01-07 04:41:22 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-01-07 04:41:22 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-07 04:41:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-07 04:41:30 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-01-07 04:41:30 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_smelter": {
+    "criteria": {
+      "has_tag_c_furnaces": "2025-01-07 04:42:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-01-07 04:42:03 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_slicer": {
+    "criteria": {
+      "has_base": "2025-01-07 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_azure_seeker": {
+    "criteria": {
+      "has_base": "2025-01-07 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_rapid": {
+    "criteria": {
+      "has_base": "2025-01-07 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_burst": {
+    "criteria": {
+      "has_base": "2025-01-07 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_exploding": {
+    "criteria": {
+      "has_base": "2025-01-07 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_heavy": {
+    "criteria": {
+      "has_base": "2025-01-07 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_slayer": {
+    "criteria": {
+      "has_base": "2025-01-07 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_soul": {
+    "criteria": {
+      "has_base": "2025-01-07 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_voidcaller_crossbow": {
+    "criteria": {
+      "has_base": "2025-01-07 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_shadow_crossbow": {
+    "criteria": {
+      "has_base": "2025-01-07 04:42:11 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/crossbow_repairing": {
     "criteria": {
       "has_crossbow": "2025-01-07 04:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-01-07 04:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_the_beginning": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_nautical_crossbow": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_masters_katana": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/shields/shield_tower_guard": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/spears/spear_fortune": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_beestinger": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/sickles/sickle_last_laugh_gold": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/evocation_robe_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/evocation_robe_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_pendant": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/gauntlets/gauntlet_soul_fist": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcde:recipes/decorations/gilding_foundry": {
+    "criteria": {
+      "has_gold": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "dimdoors:recipes/misc/gold_door": {
+    "criteria": {
+      "inventory_changed": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/battle_robe_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_harp": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/gold_chandelier": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/shulker_armor_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_the_end": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves": {
+    "criteria": {
+      "has_gold": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_resolute_tempest_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/shields/shield_royal_guard": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_ring": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_sabrewing": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_echo_of_the_valley": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_burst_gale_bow": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_chill_gale_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_grave_bane": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold_tier_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/vanguard_armor_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_bubble_burster": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/battle_robe_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/vinemaker_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/gold_stuff": {
+    "criteria": {
+      "has_wood": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_moon": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_cutlass": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/shortbows/bow_love_spell_bow": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_elite_power_bow": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/staves/staff_growing_staff": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:31 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_frost_slayer": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-07 04:42:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:31 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/evocation_robe_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:31 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_broken_sawblade": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:42:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-07 04:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-07 04:42:32 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_backstabber": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-07 04:42:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_acacia": {
+    "criteria": {
+      "has_planks": "2025-01-07 05:10:30 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-01-07 05:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-07 05:10:30 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-07 05:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-01-07 05:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-01-07 05:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-01-07 05:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-01-07 05:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-01-07 05:10:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-07 05:10:30 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/acacia_wine_rack_big": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-07 05:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-07 05:10:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_acacia": {
+    "criteria": {
+      "has_the_recipe": "2025-01-07 05:10:30 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/acacia_wine_rack_small": {
+    "criteria": {
+      "has_acacia_planks": "2025-01-07 05:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-07 05:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-07 05:10:30 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_acacia_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-07 05:10:30 +0000"
+    },
+    "done": true
+  },
+  "dimdoors:recipes/misc/stone_door": {
+    "criteria": {
+      "inventory_changed": "2025-01-07 05:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-07 05:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-01-07 05:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-01-07 05:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-07 05:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-07 05:11:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone": {
+    "criteria": {
+      "has_stone": "2025-01-07 05:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-01-07 05:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-01-07 05:11:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_stone": "2025-01-07 05:11:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_stone": "2025-01-07 05:11:22 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_stonecutter": {
+    "criteria": {
+      "has_stone": "2025-01-07 05:11:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/prismoss": {
+    "criteria": {
+      "has_stone": "2025-01-07 05:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-07 05:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-07 05:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-01-07 05:11:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/stone_grass_block": {
+    "criteria": {
+      "has_stone": "2025-01-07 05:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-07 05:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-01-07 05:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-01-07 05:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-07 05:11:22 +0000"
     },
     "done": true
   },

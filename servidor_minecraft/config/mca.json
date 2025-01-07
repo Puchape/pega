@@ -211,10 +211,10 @@
     "color_blind": "minecraft:shaders/post/desaturate.json"
   },
   "playerRendererBlacklist": {
-    "epicfight": "all",
     "firstpersonmod": "arms",
     "firstperson": "arms",
-    "morph": "arms"
+    "morph": "arms",
+    "epicfight": "all"
   },
   "enabledTraits": {
     "SIRBEN": true,

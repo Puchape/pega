@@ -7,9 +7,9 @@
 	   WARNING: LOOKS AT HOSTILE ENTITY CLASS WHICH DOES NOT INCLUDE ENDER DRAGON AND OTHERS.
 	   If anything else is put, it will be treated as default
 	*/
-	"aoePermission": 0,
+	"aoePermission": 3,
 	"ENABLE_ENCHANTMENT_SETTINGS": {
-		"ENABLE_OP_ENCHANTMENT_MIXING": false,
+		"ENABLE_OP_ENCHANTMENT_MIXING": true,
 		"LEECHING_CAN_BE_MIXED_WITH_HEALING": false,
 		"EXTRA_XP_HEALING": false,
 		"SHARED_PAIN_CAN_DAMAGE_USER": false,

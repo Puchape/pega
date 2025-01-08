@@ -211,7 +211,7 @@
 		"SWORD_THE_STARLESS_NIGHT": {
 			"isEnabled": true,
 			"material": "netherite",
-			"damage": 6,
+			"damage": 10,
 			"attackSpeed": -3.299999952316284,
 			"repairIngredient": [
 				"minecraft:netherite_scrap"

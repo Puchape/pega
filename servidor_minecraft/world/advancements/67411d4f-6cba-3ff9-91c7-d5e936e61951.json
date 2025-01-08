@@ -3233,6 +3233,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-01-08 04:30:05 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_gray": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 04:09:41 +0000"
@@ -3251,9 +3257,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-01-08 04:27:33 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_masters_katana": {
     "criteria": {
       "has_gold_ingot": "2025-01-08 03:53:09 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-08 04:28:56 +0000"
     },
     "done": true
   },
@@ -3413,6 +3431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-08 04:28:56 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcf/regions_unexplored/willow_horse_fence": {
     "criteria": {
       "has_planks": "2025-01-08 04:00:36 +0000"
@@ -3434,6 +3458,12 @@
   "farmersdelight:recipes/combat/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 04:09:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-01-08 04:28:10 +0000"
     },
     "done": true
   },
@@ -3677,6 +3707,12 @@
     },
     "done": true
   },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2025-01-08 04:30:05 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_azure_seeker": {
     "criteria": {
       "has_string": "2025-01-08 03:52:14 +0000"
@@ -3821,6 +3857,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-08 04:27:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-01-08 03:52:34 +0000"
@@ -3929,6 +3971,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_bed": {
+    "criteria": {
+      "has_wool": "2025-01-08 04:27:33 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/willow_counter": {
     "criteria": {
       "has_planks": "2025-01-08 04:00:36 +0000"
@@ -3944,6 +3992,12 @@
   "mcde:recipes/decorations/gilding_foundry": {
     "criteria": {
       "has_gold": "2025-01-08 03:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-01-08 04:27:49 +0000"
     },
     "done": true
   },
@@ -4016,6 +4070,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_light_blue": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 04:09:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2025-01-08 04:27:33 +0000"
     },
     "done": true
   },
@@ -4247,6 +4307,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2025-01-08 04:27:33 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_heavy": {
     "criteria": {
       "has_string": "2025-01-08 03:52:14 +0000"
@@ -4337,6 +4403,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2025-01-08 04:27:33 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mystery_armor_purple_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 04:09:41 +0000"
@@ -4367,6 +4439,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-01-08 04:27:33 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/white_flag": {
+    "criteria": {
+      "has_white_flag": "2025-01-08 04:27:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2025-01-08 04:27:33 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/lava_lamp": {
     "criteria": {
       "has_wood": "2025-01-08 04:09:41 +0000"
@@ -4376,6 +4466,12 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-01-08 03:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-01-08 04:25:22 +0000"
     },
     "done": true
   },
@@ -4433,6 +4529,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-01-08 04:25:22 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_drawer_counter": {
     "criteria": {
       "has_planks": "2025-01-08 04:00:36 +0000"
@@ -4445,6 +4547,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-01-08 04:27:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-08 04:00:40 +0000"
@@ -4454,6 +4562,12 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-08 04:00:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-08 04:30:05 +0000"
     },
     "done": true
   },
@@ -4529,15 +4643,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2025-01-08 04:27:33 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_the_end": {
     "criteria": {
       "has_gold_ingot": "2025-01-08 03:53:09 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-01-08 04:27:49 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcl/regions_unexplored/soul_willow_tiki_torch": {
     "criteria": {
       "has_planks": "2025-01-08 04:00:36 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/light_gray_flag": {
+    "criteria": {
+      "has_light_gray_flag": "2025-01-08 04:28:56 +0000"
     },
     "done": true
   },
@@ -4661,9 +4793,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2025-01-08 04:27:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-01-08 03:53:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-01-08 04:30:05 +0000"
     },
     "done": true
   },
@@ -4742,6 +4886,12 @@
   "everycomp:recipes/decorations/mcd/regions_unexplored/willow_paper_door": {
     "criteria": {
       "has_planks": "2025-01-08 04:00:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-01-08 04:27:33 +0000"
     },
     "done": true
   },
@@ -4826,6 +4976,12 @@
   "create:recipes/misc/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2025-01-08 04:09:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-08 04:30:05 +0000"
     },
     "done": true
   },
@@ -4949,6 +5105,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-08 04:28:56 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/dark_oak_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-01-08 04:06:57 +0000"
@@ -5069,6 +5231,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/white_cape": {
+    "criteria": {
+      "has_white_wool": "2025-01-08 04:27:33 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcd/regions_unexplored/willow_modern_door": {
     "criteria": {
       "has_planks": "2025-01-08 04:00:36 +0000"
@@ -5114,6 +5282,12 @@
   "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
     "criteria": {
       "has_the_recipe": "2025-01-08 04:16:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-01-08 04:30:05 +0000"
     },
     "done": true
   },
@@ -5237,6 +5411,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2025-01-08 04:27:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2025-01-08 04:27:33 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/gold_trapdoor": {
     "criteria": {
       "has_gold_ingot": "2025-01-08 03:53:09 +0000"
@@ -5303,9 +5489,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-01-08 04:30:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2025-01-08 04:09:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2025-01-08 04:27:33 +0000"
     },
     "done": true
   },
@@ -5366,6 +5564,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_black": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 04:09:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2025-01-08 04:27:33 +0000"
     },
     "done": true
   },
@@ -5441,6 +5645,18 @@
     },
     "done": true
   },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-01-08 04:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-01-08 04:27:49 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/willow_double_drawer": {
     "criteria": {
       "has_planks": "2025-01-08 04:00:36 +0000"
@@ -5450,6 +5666,12 @@
   "mcda:recipes/base_armors/mystery_armor_blue_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 04:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-08 04:28:56 +0000"
     },
     "done": true
   },
@@ -5630,6 +5852,12 @@
   "vinery:main/forbidden_fruit": {
     "criteria": {
       "apple": "2025-01-08 03:48:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-08 04:25:22 +0000"
     },
     "done": true
   },
@@ -5815,6 +6043,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/sheep": {
+    "criteria": {
+      "has_white_wool": "2025-01-08 04:27:33 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_striped_chair": {
     "criteria": {
       "has_planks": "2025-01-08 04:00:36 +0000"
@@ -5824,6 +6058,12 @@
   "bclib:recipes/transportation/tag_minecart": {
     "criteria": {
       "has_tag_c_iron_ingots": "2025-01-08 04:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-08 04:25:22 +0000"
     },
     "done": true
   },
@@ -5899,6 +6139,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2025-01-08 04:27:33 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/kapok_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-08 04:00:40 +0000"
@@ -5908,6 +6154,12 @@
   "mcdw:recipes/sickles/sickle_sickle": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 04:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-01-08 04:27:33 +0000"
     },
     "done": true
   },
@@ -5953,9 +6205,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-01-08 04:30:05 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcf/regions_unexplored/willow_pyramid_gate": {
     "criteria": {
       "has_planks": "2025-01-08 04:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-08 04:30:05 +0000"
     },
     "done": true
   },
@@ -5980,6 +6244,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 04:09:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2025-01-08 04:27:33 +0000"
     },
     "done": true
   },
@@ -6076,6 +6346,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 04:09:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-01-08 04:27:33 +0000"
     },
     "done": true
   },
@@ -6205,6 +6481,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-01-08 04:27:33 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/longbows/bow_red_snake": {
     "criteria": {
       "has_string": "2025-01-08 03:52:14 +0000"
@@ -6244,6 +6526,12 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-08 04:12:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2025-01-08 04:27:33 +0000"
     },
     "done": true
   },
@@ -6292,6 +6580,12 @@
   "mcdw:recipes/swords/sword_claymore": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 04:09:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2025-01-08 04:27:33 +0000"
     },
     "done": true
   },

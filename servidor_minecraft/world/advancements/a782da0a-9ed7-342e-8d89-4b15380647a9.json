@@ -51,6 +51,7 @@
     "criteria": {
       "pine_taiga": "2025-01-08 01:42:22 +0000",
       "grassy_beach": "2025-01-08 03:06:12 +0000",
+      "maple_forest": "2025-01-08 04:29:19 +0000",
       "temperate_grove": "2025-01-08 02:02:14 +0000"
     },
     "done": false
@@ -59,6 +60,7 @@
     "criteria": {
       "pine_taiga": "2025-01-08 01:42:22 +0000",
       "grassy_beach": "2025-01-08 03:06:12 +0000",
+      "maple_forest": "2025-01-08 04:29:19 +0000",
       "temperate_grove": "2025-01-08 02:02:14 +0000"
     },
     "done": false
@@ -5182,6 +5184,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-08 04:30:20 +0000"
+    },
+    "done": true
+  },
   "dimdoors:recipes/misc/stone_door": {
     "criteria": {
       "inventory_changed": "2025-01-08 04:05:43 +0000"
@@ -5206,6 +5214,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/hammers/hammer_great_hammer": {
+    "criteria": {
+      "has_leather": "2025-01-08 04:26:18 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/maple_shrub": {
     "criteria": {
       "has_maple_sapling": "2025-01-08 03:59:47 +0000"
@@ -5215,6 +5229,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-01-08 03:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-08 04:26:18 +0000"
     },
     "done": true
   },
@@ -5254,6 +5274,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2025-01-08 04:26:18 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/guide_book": {
     "criteria": {
       "has_book": "2025-01-08 04:04:39 +0000"
@@ -5290,6 +5316,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:24:40 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/pine_wardrobe": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:05 +0000"
@@ -5320,6 +5352,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 04:26:40 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-01-08 04:26:18 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_chestplate_repairing": {
     "criteria": {
       "has_iron_chestplate": "2025-01-08 03:40:03 +0000"
@@ -5341,6 +5385,12 @@
   "mcda:recipes/base_armors/mercenary_armor_chestplate": {
     "criteria": {
       "has_iron_chestplate": "2025-01-08 03:40:03 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:24:40 +0000"
     },
     "done": true
   },
@@ -5377,6 +5427,18 @@
   "supplementaries:recipes/sign_post_oak": {
     "criteria": {
       "has_oak_sign": "2025-01-08 04:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-08 04:30:20 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/turtle_armor_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-08 04:26:18 +0000"
     },
     "done": true
   },
@@ -5440,9 +5502,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-01-08 04:26:40 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/ender_eye_amber": {
     "criteria": {
       "has_ender_pearl": "2025-01-08 04:04:42 +0000"
+    },
+    "done": true
+  },
+  "dimdoors:recipes/misc/magenta_fabric": {
+    "criteria": {
+      "inventory_changed": "2025-01-08 04:26:37 +0000"
     },
     "done": true
   },
@@ -5455,6 +5529,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-01-08 03:57:20 +0000"
+    },
+    "done": true
+  },
+  "dimdoors:recipes/misc/red_fabric": {
+    "criteria": {
+      "inventory_changed": "2025-01-08 04:26:37 +0000"
     },
     "done": true
   },
@@ -5476,9 +5556,21 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/glass_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:30:20 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_pine_double_drawer": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:05 +0000"
+    },
+    "done": true
+  },
+  "dimdoors:recipes/misc/black_fabric": {
+    "criteria": {
+      "inventory_changed": "2025-01-08 04:26:37 +0000"
     },
     "done": true
   },
@@ -5506,9 +5598,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-01-08 04:26:18 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/regions_unexplored/vertical_maple_planks": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-01-08 04:26:40 +0000"
     },
     "done": true
   },
@@ -5560,6 +5664,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-08 04:24:40 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/hay": {
     "criteria": {
       "has_wheat": "2025-01-08 03:53:21 +0000"
@@ -5581,6 +5691,12 @@
   "everycomp:recipes/decorations/mcd/regions_unexplored/pine_swamp_door": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-08 04:26:35 +0000"
     },
     "done": true
   },
@@ -5668,6 +5784,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-01-08 04:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-08 04:30:20 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_lectern": {
     "criteria": {
       "has_book": "2025-01-08 04:04:39 +0000"
@@ -5692,9 +5820,27 @@
     },
     "done": true
   },
+  "dimdoors:recipes/tesselating/tesselating/stable_fabric": {
+    "criteria": {
+      "world_thread": "2025-01-08 04:26:37 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_mushroom_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-01-08 04:26:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-01-08 03:52:10 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/leather_to_stripes": {
+    "criteria": {
+      "has_leather": "2025-01-08 04:26:18 +0000"
     },
     "done": true
   },
@@ -5752,6 +5898,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-08 04:26:35 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/fire_protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-01-08 04:04:39 +0000"
@@ -5800,6 +5952,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-08 04:30:20 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_swift_striker": {
     "criteria": {
       "has_amethyst_shard": "2025-01-08 04:20:43 +0000"
@@ -5836,6 +5994,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/mossy_stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:24:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-08 03:43:56 +0000"
@@ -5854,9 +6018,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-01-08 04:30:20 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_pine_lower_triple_drawer": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:05 +0000"
+    },
+    "done": true
+  },
+  "dimdoors:recipes/misc/purple_fabric": {
+    "criteria": {
+      "inventory_changed": "2025-01-08 04:26:37 +0000"
+    },
+    "done": true
+  },
+  "dimdoors:recipes/misc/blue_fabric": {
+    "criteria": {
+      "inventory_changed": "2025-01-08 04:26:37 +0000"
     },
     "done": true
   },
@@ -5896,6 +6078,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-08 04:24:40 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcb/regions_unexplored/maple_rope_bridge_stair": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:32 +0000"
@@ -5920,6 +6108,12 @@
     },
     "done": true
   },
+  "dimdoors:recipes/misc/lime_fabric": {
+    "criteria": {
+      "inventory_changed": "2025-01-08 04:26:37 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/lure_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-01-08 04:04:39 +0000"
@@ -5938,9 +6132,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-08 04:30:20 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/pine_modern_wardrobe": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:05 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:30:20 +0000"
     },
     "done": true
   },
@@ -5953,6 +6159,12 @@
   "everycomp:recipes/decorations/mcb/regions_unexplored/pine_rope_bridge_stair": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-01-08 04:26:24 +0000"
     },
     "done": true
   },
@@ -6016,6 +6228,18 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-01-08 04:26:34 +0000"
+    },
+    "done": true
+  },
+  "dimdoors:recipes/tesselating/tesselating/world_thread_chestplate": {
+    "criteria": {
+      "world_thread": "2025-01-08 04:26:37 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_pine_large_drawer": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:05 +0000"
@@ -6058,9 +6282,33 @@
     },
     "done": true
   },
+  "mcdw:recipes/gauntlets/gauntlet_gauntlets": {
+    "criteria": {
+      "has_leather": "2025-01-08 04:26:18 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/spruce_rail_bridge": {
     "criteria": {
       "has_planks": "2025-01-08 03:52:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-08 04:26:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-01-08 04:26:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/crimson_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-01-08 04:26:34 +0000"
     },
     "done": true
   },
@@ -6073,6 +6321,12 @@
   "mcwbridges:recipes/rope_spruce_bridge": {
     "criteria": {
       "has_planks": "2025-01-08 03:52:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-08 04:26:35 +0000"
     },
     "done": true
   },
@@ -6118,9 +6372,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-08 04:30:20 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcf/regions_unexplored/maple_stockade_fence": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-08 04:30:20 +0000"
     },
     "done": true
   },
@@ -6142,6 +6408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 04:26:40 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/spruce_wine_rack_small": {
     "criteria": {
       "has_spruce_planks": "2025-01-08 03:52:10 +0000"
@@ -6151,6 +6423,12 @@
   "regions_unexplored:recipes/redstone/maple_pressure_plate": {
     "criteria": {
       "has_maple_planks": "2025-01-08 03:59:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 04:26:40 +0000"
     },
     "done": true
   },
@@ -6187,6 +6465,18 @@
   "betterend:recipes/misc/protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-01-08 04:04:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-01-08 04:26:40 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/glass_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:30:20 +0000"
     },
     "done": true
   },
@@ -6232,6 +6522,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-01-08 04:26:40 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/regions_unexplored/pine_vertical_slab": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:05 +0000"
@@ -6241,6 +6537,12 @@
   "vinery:recipes/dark_cherry_shelf": {
     "criteria": {
       "has_spruce_planks": "2025-01-08 03:52:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-08 04:24:40 +0000"
     },
     "done": true
   },
@@ -6271,6 +6573,12 @@
   "everycomp:recipes/decorations/mcl/regions_unexplored/pine_ceiling_fan_light": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-01-08 04:26:40 +0000"
     },
     "done": true
   },
@@ -6328,6 +6636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-01-08 04:26:18 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-08 03:43:56 +0000"
@@ -6352,9 +6666,27 @@
     },
     "done": true
   },
+  "dimdoors:recipes/misc/brown_fabric": {
+    "criteria": {
+      "inventory_changed": "2025-01-08 04:26:37 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/pine_double_drawer": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:05 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/teleportation_robe_chestplate": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 04:26:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-01-08 04:26:40 +0000"
     },
     "done": true
   },
@@ -6508,6 +6840,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-08 04:26:35 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_cupboard_counter": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:32 +0000"
@@ -6550,6 +6888,18 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/nether_reed_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-01-08 04:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-08 04:26:35 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/fd/regions_unexplored/pine_cabinet": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:05 +0000"
@@ -6559,6 +6909,12 @@
   "betterend:recipes/misc/fire_aspect_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-01-08 04:04:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-08 04:26:35 +0000"
     },
     "done": true
   },
@@ -6589,6 +6945,12 @@
   "everycomp:recipes/decorations/mcb/regions_unexplored/pine_log_bridge_stair": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_sakura_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-01-08 04:26:34 +0000"
     },
     "done": true
   },
@@ -6631,6 +6993,18 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-01-08 03:57:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-01-08 04:26:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-01-08 04:26:40 +0000"
     },
     "done": true
   },
@@ -6688,6 +7062,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-01-08 04:30:20 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/soul_speed_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-01-08 04:04:39 +0000"
@@ -6697,6 +7077,18 @@
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-01-08 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/anchor_tree_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-01-08 04:26:34 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_dancers_sword": {
+    "criteria": {
+      "has_leather": "2025-01-08 04:26:18 +0000"
     },
     "done": true
   },
@@ -6718,6 +7110,12 @@
     },
     "done": true
   },
+  "dimdoors:recipes/misc/light_blue_fabric": {
+    "criteria": {
+      "inventory_changed": "2025-01-08 04:26:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-01-08 03:51:45 +0000"
@@ -6733,6 +7131,12 @@
   "regions_unexplored:recipes/transportation/cypress_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-08 03:43:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blackwood_wood": {
+    "criteria": {
+      "has_log": "2025-01-08 04:26:40 +0000"
     },
     "done": true
   },
@@ -6844,6 +7248,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-08 04:30:20 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/oak_wine_rack_small": {
     "criteria": {
       "has_oak_planks": "2025-01-08 03:57:20 +0000"
@@ -6853,6 +7263,12 @@
   "betterend:recipes/misc/power_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-01-08 04:04:39 +0000"
+    },
+    "done": true
+  },
+  "dimdoors:recipes/misc/orange_fabric": {
+    "criteria": {
+      "inventory_changed": "2025-01-08 04:26:37 +0000"
     },
     "done": true
   },
@@ -6886,6 +7302,18 @@
     },
     "done": true
   },
+  "dimdoors:recipes/misc/cyan_fabric": {
+    "criteria": {
+      "inventory_changed": "2025-01-08 04:26:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blackwood_planks": {
+    "criteria": {
+      "has_logs": "2025-01-08 04:26:40 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_backstabber": {
     "criteria": {
       "has_amethyst_shard": "2025-01-08 04:20:43 +0000"
@@ -6916,6 +7344,12 @@
     },
     "done": true
   },
+  "dimdoors:dimdoors/string_theory": {
+    "criteria": {
+      "inventory_changed": "2025-01-08 04:26:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-01-08 04:20:55 +0000"
@@ -6928,9 +7362,21 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/mossy_stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:24:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/item_vault": {
     "criteria": {
       "has_item": "2025-01-08 03:52:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/warped_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-01-08 04:26:34 +0000"
     },
     "done": true
   },
@@ -6952,6 +7398,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/copy_leather_handle_attachment": {
+    "criteria": {
+      "has_leather": "2025-01-08 04:26:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
       "has_honeycomb": "2025-01-08 03:53:09 +0000"
@@ -6967,6 +7419,18 @@
   "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
       "fried_egg": "2025-01-08 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/mushroom_fir_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-01-08 04:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-08 04:26:18 +0000"
     },
     "done": true
   },
@@ -7012,6 +7476,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/prismaglass": {
+    "criteria": {
+      "has_glass": "2025-01-08 04:30:20 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_shulker_box": {
+    "criteria": {
+      "has_tag_c_chest": "2025-01-08 04:26:34 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_barrel": {
     "criteria": {
       "has_slabs": "2025-01-08 03:45:17 +0000"
@@ -7024,9 +7500,39 @@
     },
     "done": true
   },
+  "dimdoors:recipes/misc/white_fabric": {
+    "criteria": {
+      "inventory_changed": "2025-01-08 04:26:37 +0000"
+    },
+    "done": true
+  },
+  "dimdoors:recipes/tesselating/tesselating/world_thread_leggings": {
+    "criteria": {
+      "world_thread": "2025-01-08 04:26:37 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/larch_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-08 03:43:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-01-08 04:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-08 04:30:20 +0000"
+    },
+    "done": true
+  },
+  "dimdoors:recipes/tesselating/tesselating/world_thread_helmet": {
+    "criteria": {
+      "world_thread": "2025-01-08 04:26:37 +0000"
     },
     "done": true
   },
@@ -7072,6 +7578,24 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-01-08 04:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-08 04:24:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-01-08 04:30:20 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcd/regions_unexplored/maple_bark_glass_door": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:32 +0000"
@@ -7087,6 +7611,12 @@
   "everycomp:recipes/decorations/q/regions_unexplored/pine_vertical_slab_1": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:05 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_cursed": {
+    "criteria": {
+      "has_rotten_flesh": "2025-01-08 04:26:24 +0000"
     },
     "done": true
   },
@@ -7108,15 +7638,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-01-08 04:26:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-08 03:43:56 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-01-08 04:26:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-08 04:24:40 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/channeling_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-01-08 04:04:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-08 04:24:40 +0000"
     },
     "done": true
   },
@@ -7135,6 +7689,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_carved_pumpkin": "2025-01-08 03:53:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-08 04:26:35 +0000"
     },
     "done": true
   },
@@ -7162,9 +7722,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-08 04:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-08 04:26:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-01-08 03:50:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 04:26:40 +0000"
     },
     "done": true
   },
@@ -7204,6 +7782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-08 04:26:35 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcd/regions_unexplored/maple_cottage_door": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:32 +0000"
@@ -7213,6 +7797,12 @@
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_pine_covered_desk": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-01-08 04:30:20 +0000"
     },
     "done": true
   },
@@ -7264,9 +7854,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-08 04:26:35 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/lacugrove_bookshelf": {
     "criteria": {
       "has_book": "2025-01-08 04:04:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-01-08 04:26:24 +0000"
     },
     "done": true
   },
@@ -7324,15 +7926,28 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-08 04:26:35 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/cake": {
     "criteria": {
       "has_egg": "2025-01-08 03:58:17 +0000"
     },
     "done": true
   },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-01-08 04:26:40 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:got_wood": {
     "criteria": {
       "pine_log": "2025-01-08 03:58:25 +0000",
+      "blackwood_log": "2025-01-08 04:26:40 +0000",
       "maple_log": "2025-01-08 03:59:09 +0000"
     },
     "done": false
@@ -7352,6 +7967,12 @@
   "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_drawer": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-08 04:26:24 +0000"
     },
     "done": true
   },
@@ -7418,6 +8039,18 @@
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-01-08 03:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-08 04:30:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-01-08 04:26:40 +0000"
     },
     "done": true
   },
@@ -7490,6 +8123,12 @@
   "betterend:recipes/building_blocks/helix_tree_bookshelf": {
     "criteria": {
       "has_book": "2025-01-08 04:04:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-08 04:30:20 +0000"
     },
     "done": true
   },
@@ -7589,15 +8228,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-01-08 04:26:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2025-01-08 04:03:29 +0000"
     },
     "done": true
   },
+  "mcwbridges:recipes/mossy_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:24:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-08 04:05:43 +0000"
+    },
+    "done": true
+  },
+  "dimdoors:recipes/misc/yellow_fabric": {
+    "criteria": {
+      "inventory_changed": "2025-01-08 04:26:37 +0000"
     },
     "done": true
   },
@@ -7616,6 +8273,18 @@
   "aether:recipes/building_blocks/skyroot_bookshelf": {
     "criteria": {
       "has_book": "2025-01-08 04:04:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-01-08 04:26:40 +0000"
+    },
+    "done": true
+  },
+  "dimdoors:recipes/misc/light_gray_fabric": {
+    "criteria": {
+      "inventory_changed": "2025-01-08 04:26:37 +0000"
     },
     "done": true
   },
@@ -7646,6 +8315,12 @@
   "regions_unexplored:recipes/redstone/pine_door": {
     "criteria": {
       "has_pine_planks": "2025-01-08 03:59:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 04:26:40 +0000"
     },
     "done": true
   },
@@ -7727,6 +8402,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/mossy_cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:24:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-08 03:57:20 +0000"
@@ -7757,9 +8438,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-08 04:26:35 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/oak_wine_rack_big": {
     "criteria": {
       "has_oak_planks": "2025-01-08 03:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-01-08 04:26:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-08 04:26:24 +0000"
     },
     "done": true
   },
@@ -7805,6 +8504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-08 04:24:40 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/regions_unexplored/maple_post": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:32 +0000"
@@ -7823,9 +8528,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-08 04:26:24 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/silk_touch_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-01-08 04:04:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/rubeus_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-01-08 04:26:34 +0000"
     },
     "done": true
   },
@@ -7865,6 +8582,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-01-08 04:26:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/stalagnate_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-01-08 04:26:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-01-08 03:57:20 +0000"
@@ -7874,6 +8603,12 @@
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_bookshelf_cupboard": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:32 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/ghostly_helmet": {
+    "criteria": {
+      "has_skeleton_skull": "2025-01-08 04:26:34 +0000"
     },
     "done": true
   },
@@ -7919,9 +8654,27 @@
     },
     "done": true
   },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-01-08 04:26:40 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/creeper": {
     "criteria": {
       "has_gunpowder": "2025-01-08 04:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-08 04:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-08 04:30:20 +0000"
     },
     "done": true
   },
@@ -8003,6 +8756,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-01-08 04:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 04:26:40 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcd/regions_unexplored/maple_western_door": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:32 +0000"
@@ -8012,6 +8777,18 @@
   "supplementaries:recipes/sign_post_spruce": {
     "criteria": {
       "has_the_recipe": "2025-01-08 03:52:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-08 04:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-01-08 04:26:40 +0000"
     },
     "done": true
   },
@@ -8027,9 +8804,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-01-08 04:26:24 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/sheep": {
     "criteria": {
       "has_white_wool": "2025-01-08 03:43:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_shrub": {
+    "criteria": {
+      "has_pine_sapling": "2025-01-08 04:26:40 +0000"
     },
     "done": true
   },
@@ -8057,6 +8846,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-08 04:30:20 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
     "criteria": {
       "has_log": "2025-01-08 03:55:08 +0000"
@@ -8078,6 +8873,18 @@
   "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-01-08 04:20:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/blackwood_branch_from_blackwood_log": {
+    "criteria": {
+      "has_log": "2025-01-08 04:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-08 04:24:40 +0000"
     },
     "done": true
   },
@@ -8195,9 +9002,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-08 04:26:35 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mercenary_armor_leggings": {
     "criteria": {
       "has_iron_leggings": "2025-01-08 03:40:07 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/wart_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-01-08 04:26:34 +0000"
     },
     "done": true
   },
@@ -8261,6 +9080,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-08 04:26:18 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/pine_counter": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:05 +0000"
@@ -8303,6 +9128,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-08 04:30:20 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_void_touched_blade": {
     "criteria": {
       "has_amethyst_shard": "2025-01-08 04:20:43 +0000"
@@ -8339,6 +9170,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-01-08 04:26:35 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/pine_cupboard_counter": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:05 +0000"
@@ -8360,6 +9197,12 @@
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_pine_cupboard_counter": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:05 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/copper_stuff": {
+    "criteria": {
+      "has_wood": "2025-01-08 04:26:40 +0000"
     },
     "done": true
   },
@@ -8396,6 +9239,12 @@
   "betternether:recipes/building_blocks/wart_bookshelf": {
     "criteria": {
       "has_book": "2025-01-08 04:04:39 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/vanguard_armor_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-08 04:26:18 +0000"
     },
     "done": true
   },
@@ -8495,6 +9344,18 @@
     },
     "done": true
   },
+  "dimdoors:recipes/misc/pink_fabric": {
+    "criteria": {
+      "inventory_changed": "2025-01-08 04:26:37 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2025-01-08 04:26:34 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_pine_desk": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:05 +0000"
@@ -8534,6 +9395,12 @@
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2025-01-08 03:53:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-08 04:30:20 +0000"
     },
     "done": true
   },
@@ -8579,6 +9446,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/tined_glass_from_smaragdant": {
+    "criteria": {
+      "has_glass": "2025-01-08 04:30:20 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/sweet_berry_jelly": {
     "criteria": {
       "has_tag_c_water_bottles": "2025-01-08 03:54:10 +0000"
@@ -8588,6 +9461,12 @@
   "everycomp:recipes/decorations/mcb/regions_unexplored/pine_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-01-08 04:26:34 +0000"
     },
     "done": true
   },
@@ -8615,9 +9494,21 @@
     },
     "done": true
   },
+  "vinery:recipes/wine_box": {
+    "criteria": {
+      "has_glass": "2025-01-08 04:30:20 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcd/regions_unexplored/maple_beach_door": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:32 +0000"
+    },
+    "done": true
+  },
+  "dimdoors:recipes/misc/gray_fabric": {
+    "criteria": {
+      "inventory_changed": "2025-01-08 04:26:37 +0000"
     },
     "done": true
   },
@@ -8663,9 +9554,21 @@
     },
     "done": true
   },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-01-08 04:26:40 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/thorns_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-01-08 04:04:39 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_chest": "2025-01-08 04:26:34 +0000"
     },
     "done": true
   },
@@ -8681,6 +9584,12 @@
     },
     "done": true
   },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-08 04:26:40 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/regions_unexplored/pine_bookshelf": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:05 +0000"
@@ -8690,6 +9599,12 @@
   "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
       "has_ender_pearl": "2025-01-08 04:04:42 +0000"
+    },
+    "done": true
+  },
+  "dimdoors:recipes/misc/green_fabric": {
+    "criteria": {
+      "inventory_changed": "2025-01-08 04:26:37 +0000"
     },
     "done": true
   },
@@ -8729,6 +9644,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-01-08 04:26:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2025-01-08 03:43:30 +0000"
@@ -8747,6 +9668,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-01-08 04:26:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2025-01-08 03:57:20 +0000"
@@ -8756,6 +9683,12 @@
   "everycomp:recipes/decorations/mcfur/regions_unexplored/pine_bookshelf_drawer": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:05 +0000"
+    },
+    "done": true
+  },
+  "dimdoors:recipes/tesselating/tesselating/world_thread_boots": {
+    "criteria": {
+      "world_thread": "2025-01-08 04:26:37 +0000"
     },
     "done": true
   },
@@ -8801,9 +9734,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-01-08 04:30:20 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/multishot_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-01-08 04:04:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-08 04:26:40 +0000"
     },
     "done": true
   },

@@ -60,6 +60,7 @@
       "rocky_meadow": "2025-01-08 03:43:15 +0000",
       "maple_forest": "2025-01-08 03:23:44 +0000",
       "magnolia_highlands": "2025-01-07 17:53:49 +0000",
+      "joshua_desert": "2025-01-08 23:20:17 +0000",
       "boreal_forest": "2025-01-08 01:48:11 +0000",
       "temperate_grove": "2025-01-07 17:41:05 +0000",
       "cold_river": "2025-01-08 03:27:43 +0000",
@@ -84,6 +85,7 @@
       "rocky_meadow": "2025-01-08 03:43:15 +0000",
       "maple_forest": "2025-01-08 03:23:44 +0000",
       "magnolia_highlands": "2025-01-07 17:53:49 +0000",
+      "joshua_desert": "2025-01-08 23:20:17 +0000",
       "boreal_forest": "2025-01-08 01:48:11 +0000",
       "temperate_grove": "2025-01-07 17:41:05 +0000",
       "cold_river": "2025-01-08 03:27:43 +0000",
@@ -248,8 +250,10 @@
       "minecraft:dark_forest": "2025-01-08 01:35:50 +0000",
       "minecraft:sparse_jungle": "2025-01-08 03:15:21 +0000",
       "minecraft:river": "2025-01-07 18:01:25 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-08 23:37:39 +0000",
       "minecraft:cold_ocean": "2025-01-08 01:42:02 +0000",
       "minecraft:forest": "2025-01-08 03:05:54 +0000",
+      "minecraft:desert": "2025-01-08 23:18:03 +0000",
       "minecraft:ocean": "2025-01-07 17:40:58 +0000",
       "minecraft:jungle": "2025-01-08 03:17:39 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-08 01:47:17 +0000",
@@ -383,6 +387,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "joshua_log": "2025-01-08 23:31:16 +0000",
       "pine_log": "2025-01-08 01:13:57 +0000",
       "blackwood_log": "2025-01-08 01:23:20 +0000"
     },
@@ -8329,6 +8334,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2025-01-08 23:09:21 +0000",
       "wheat": "2025-01-08 04:41:20 +0000"
     },
     "done": false
@@ -8474,6 +8480,1332 @@
   "mcdw:recipes/daggers/dagger_shear_dagger": {
     "criteria": {
       "has_shears": "2025-01-08 04:56:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/guide_book": {
+    "criteria": {
+      "has_book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/dragon_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/mossy_glowshroom_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/umbrella_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infinity_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/fire_protection_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/flame_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/lure_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/swift_sneak_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/protection_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/pythadendron_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/knockback_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/stalagnate_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/fortune_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/lucernia_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aqua_affinity_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/fire_aspect_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_mushroom_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/respiration_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/soul_speed_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/looting_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/depth_strider_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/unbreaking_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/loyalty_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/willow_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/rubeus_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/jellyshroom_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/power_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/smite_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_sakura_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/quick_charge_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_reed_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/channeling_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/end_lotus_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/frost_walker_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/mushroom_fir_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/lacugrove_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/crimson_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/punch_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/tenanea_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/efficiency_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/helix_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blast_protection_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/anchor_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/warped_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/silk_touch_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/luck_of_sea_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/piercing_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/impaling_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/riptide_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sharpness_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/mending_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/feather_falling_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/wart_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/projectile_protection_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sweeping_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/bane_of_arthropods_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thorns_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/multishot_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 23:10:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-08 23:15:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-08 23:15:23 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/light_gray_flag": {
+    "criteria": {
+      "has_light_gray_flag": "2025-01-08 23:15:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-08 23:15:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-08 23:15:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_crimson": {
+    "criteria": {
+      "has_the_recipe": "2025-01-08 23:19:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_crimson": {
+    "criteria": {
+      "has_crimson_sign": "2025-01-08 23:19:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-01-08 23:22:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-01-08 23:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-01-08 23:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-08 23:23:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-08 23:23:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-08 23:23:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-08 23:23:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-08 23:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-08 23:27:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-01-08 23:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-08 23:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-08 23:27:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-08 23:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-01-08 23:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-08 23:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-08 23:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-08 23:27:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-08 23:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-01-08 23:27:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:27:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cactus": {
+    "criteria": {
+      "has_cactus": "2025-01-08 23:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-01-08 23:29:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/joshua_shrub": {
+    "criteria": {
+      "has_joshua_sapling": "2025-01-08 23:31:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/joshua_wood": {
+    "criteria": {
+      "has_log": "2025-01-08 23:31:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/joshua_beard_from_joshua_log": {
+    "criteria": {
+      "has_log": "2025-01-08 23:31:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/joshua_planks": {
+    "criteria": {
+      "has_logs": "2025-01-08 23:31:16 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_joshua_lower_bookshelf_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/joshua_post": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/joshua_window_pane": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/joshua_modern_chair": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/joshua_button": {
+    "criteria": {
+      "has_joshua_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/joshua_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/joshua_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/joshua_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/joshua_covered_desk": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/joshua_four_panel_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/joshua_glass_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/joshua_vertical_slab": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/joshua_stool_chair": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/joshua_stockade_fence": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_joshua_modern_chair": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/joshua_sign": {
+    "criteria": {
+      "has_joshua_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_joshua_covered_desk": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/joshua_end_table": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/joshua_pressure_plate": {
+    "criteria": {
+      "has_joshua_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/joshua_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_joshua_stool_chair": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_joshua_bookshelf_cupboard": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_joshua_end_table": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/joshua_classic_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/joshua_glass_table": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/joshua_beach_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/joshua_bookshelf_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/joshua_pyramid_gate": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/joshua_tropical_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/joshua_stairs": {
+    "criteria": {
+      "has_joshua_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/joshua_fence_gate": {
+    "criteria": {
+      "has_joshua_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/joshua_stable_head_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_joshua_counter": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/joshua_modern_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/joshua_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/joshua_ladder": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/joshua_cupboard_counter": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/rope_joshua_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/joshua_rope_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/joshua_double_wardrobe": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/joshua_nether_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/joshua_barn_glass_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/joshua_paper_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/joshua_trapped_chest": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/joshua_stable_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/joshua_horse_fence": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/joshua_modern_wardrobe": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/joshua_swamp_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_joshua_lower_triple_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/joshua_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_joshua_triple_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/joshua_mystic_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_joshua_double_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/regions_unexplored/joshua_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/joshua_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/joshua_bookshelf_cupboard": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/joshua_log_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_joshua_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/joshua_bark_glass_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_joshua_glass_table": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_joshua_chair": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_joshua_double_wardrobe": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/joshua_waffle_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/joshua_lower_triple_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/joshua_chair": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/stripped_joshua_post": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_joshua_wardrobe": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/joshua_wardrobe": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_joshua_table": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_joshua_double_drawer_counter": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/joshua_desk": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/joshua_lower_bookshelf_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/joshua_highley_gate": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/regions_unexplored/joshua_banister": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/joshua_chest": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/joshua_striped_chair": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/joshua_picket_fence": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/regions_unexplored/hollow_joshua_log": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/regions_unexplored/joshua_beehive": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/joshua_vertical_slab_1": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_joshua_modern_wardrobe": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_joshua_modern_desk": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/joshua_japanese2_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_joshua": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_joshua_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/joshua_table": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_joshua_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/joshua_cottage_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_joshua_striped_chair": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/joshua_large_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_joshua_desk": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/vertical_joshua_planks": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/hollow_joshua_log": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/joshua_counter": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/joshua_japanese_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/joshua_trapdoor": {
+    "criteria": {
+      "has_joshua_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/joshua_drawer_counter": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/joshua_triple_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_joshua_large_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_joshua_cupboard_counter": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_joshua_drawer_counter": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_joshua_bookshelf_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/joshua_double_drawer_counter": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/regions_unexplored/soul_joshua_tiki_torch": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/joshua_modern_desk": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/joshua_double_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/joshua_door": {
+    "criteria": {
+      "has_joshua_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/joshua_western_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/joshua_wired_fence": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/joshua_barn_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/regions_unexplored/joshua_ceiling_fan_light": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/joshua_window": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/joshua_bamboo_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/regions_unexplored/joshua_tiki_torch": {
+    "criteria": {
+      "has_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/joshua_fence": {
+    "criteria": {
+      "has_joshua_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/joshua_slab": {
+    "criteria": {
+      "has_joshua_planks": "2025-01-08 23:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-01-08 23:36:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-08 23:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-01-08 23:36:08 +0000"
     },
     "done": true
   },

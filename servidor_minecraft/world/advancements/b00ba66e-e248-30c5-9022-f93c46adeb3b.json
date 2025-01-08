@@ -6736,6 +6736,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-01-08 04:48:46 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/regions_unexplored/blackwood_vertical_slab_1": {
     "criteria": {
       "has_planks": "2025-01-08 04:24:34 +0000"
@@ -6765,6 +6771,12 @@
       "has_planks": "2025-01-08 04:24:34 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-01-08 04:41:20 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
@@ -6850,15 +6862,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-08 04:44:08 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/building_blocks/c/regions_unexplored/blackwood_window": {
     "criteria": {
       "has_planks": "2025-01-08 04:24:34 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-01-08 04:41:14 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/dark_oak_wine_rack_big": {
     "criteria": {
       "has_dark_oak_planks": "2025-01-08 04:19:25 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/stackable_log": {
+    "criteria": {
+      "has_oak_log": "2025-01-08 04:38:38 +0000"
     },
     "done": true
   },
@@ -6877,6 +6907,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-08 04:32:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-01-08 04:39:01 +0000"
     },
     "done": true
   },
@@ -6925,6 +6961,12 @@
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_blackwood_cupboard_counter": {
     "criteria": {
       "has_planks": "2025-01-08 04:24:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2025-01-08 04:48:46 +0000"
     },
     "done": true
   },
@@ -7009,6 +7051,12 @@
   "everycomp:recipes/decorations/mcfur/regions_unexplored/blackwood_modern_chair": {
     "criteria": {
       "has_planks": "2025-01-08 04:24:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-01-08 04:41:14 +0000"
     },
     "done": true
   },
@@ -7132,6 +7180,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-01-08 04:49:02 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/oak_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-01-08 04:17:24 +0000"
@@ -7156,6 +7210,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_the_recipe": "2025-01-08 04:39:56 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/glaives/spear_glaive": {
     "criteria": {
       "has_the_recipe": "2025-01-08 03:42:39 +0000"
@@ -7171,6 +7231,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-08 04:06:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-08 04:44:08 +0000"
     },
     "done": true
   },
@@ -7249,6 +7315,12 @@
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_blackwood_lower_bookshelf_drawer": {
     "criteria": {
       "has_planks": "2025-01-08 04:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-08 04:49:02 +0000"
     },
     "done": true
   },
@@ -7360,6 +7432,18 @@
     },
     "done": true
   },
+  "vinery:recipes/grapevine_stem": {
+    "criteria": {
+      "has_oak_log": "2025-01-08 04:38:38 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:38:38 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_dark_oak_bridge": {
     "criteria": {
       "has_planks": "2025-01-08 04:19:25 +0000"
@@ -7450,6 +7534,12 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-01-08 04:38:38 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_blackwood_double_drawer": {
     "criteria": {
       "has_planks": "2025-01-08 04:24:34 +0000"
@@ -7468,9 +7558,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-01-08 04:48:46 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/mushroom_fir_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-01-08 04:23:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-08 04:49:02 +0000"
     },
     "done": true
   },
@@ -7528,6 +7630,18 @@
     },
     "done": true
   },
+  "mcdw:recipes/double_axes/double_axe_whirlwind": {
+    "criteria": {
+      "has_feather": "2025-01-08 04:49:02 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_mace": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-08 04:44:08 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_blackwood_large_drawer": {
     "criteria": {
       "has_planks": "2025-01-08 04:24:34 +0000"
@@ -7537,6 +7651,12 @@
   "everycomp:recipes/decorations/mcb/regions_unexplored/rope_blackwood_bridge": {
     "criteria": {
       "has_planks": "2025-01-08 04:24:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-01-08 04:49:02 +0000"
     },
     "done": true
   },
@@ -7582,9 +7702,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-01-08 04:49:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-01-08 04:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-01-08 04:38:38 +0000"
     },
     "done": true
   },
@@ -7600,6 +7732,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-01-08 04:41:14 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_blackwood_modern_wardrobe": {
     "criteria": {
       "has_planks": "2025-01-08 04:24:34 +0000"
@@ -7609,6 +7747,12 @@
   "everycomp:recipes/decorations/mcd/regions_unexplored/blackwood_barn_glass_door": {
     "criteria": {
       "has_planks": "2025-01-08 04:24:34 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-01-08 04:48:46 +0000"
     },
     "done": true
   },
@@ -7648,9 +7792,27 @@
     },
     "done": true
   },
+  "vinery:recipes/basket": {
+    "criteria": {
+      "has_wheat": "2025-01-08 04:41:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-08 04:17:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-01-08 04:41:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2025-01-08 04:53:02 +0000"
     },
     "done": true
   },
@@ -7690,6 +7852,12 @@
     },
     "done": true
   },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_backpack": "2025-01-08 04:39:01 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_blackwood_double_wardrobe": {
     "criteria": {
       "has_planks": "2025-01-08 04:24:34 +0000"
@@ -7705,6 +7873,12 @@
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_blackwood_counter": {
     "criteria": {
       "has_planks": "2025-01-08 04:24:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-01-08 04:48:46 +0000"
     },
     "done": true
   },
@@ -7771,6 +7945,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-08 04:17:24 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-01-08 04:48:46 +0000"
     },
     "done": true
   },
@@ -7888,6 +8068,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-01-08 04:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-01-08 04:41:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-01-08 04:06:58 +0000"
@@ -7948,9 +8140,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
+    "criteria": {
+      "has_log": "2025-01-08 04:38:38 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcd/regions_unexplored/blackwood_four_panel_door": {
     "criteria": {
       "has_planks": "2025-01-08 04:24:34 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-01-08 04:38:38 +0000"
     },
     "done": true
   },
@@ -7978,6 +8182,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-08 04:38:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-01-08 04:48:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-08 04:48:46 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcb/regions_unexplored/blackwood_rope_bridge_stair": {
     "criteria": {
       "has_planks": "2025-01-08 04:24:34 +0000"
@@ -7987,6 +8209,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-08 04:19:25 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-01-08 04:53:02 +0000"
     },
     "done": true
   },
@@ -8020,6 +8248,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-01-08 04:49:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-01-08 04:49:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-01-08 04:19:25 +0000"
@@ -8035,6 +8275,12 @@
   "everycomp:recipes/decorations/mcf/regions_unexplored/blackwood_horse_fence": {
     "criteria": {
       "has_planks": "2025-01-08 04:24:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-01-08 04:41:14 +0000"
     },
     "done": true
   },
@@ -8146,6 +8392,12 @@
     },
     "done": true
   },
+  "vinery:recipes/straw_hat": {
+    "criteria": {
+      "has_wheat": "2025-01-08 04:41:14 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/blank_upgrade": {
     "criteria": {
       "has_chest": "2025-01-08 04:23:18 +0000"
@@ -8194,9 +8446,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-01-08 04:41:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2025-01-08 04:28:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-08 04:44:08 +0000"
     },
     "done": true
   },

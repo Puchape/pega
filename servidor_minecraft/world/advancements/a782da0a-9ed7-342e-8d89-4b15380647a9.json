@@ -8222,6 +8222,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2025-01-08 04:38:50 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcd/regions_unexplored/maple_japanese_door": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:32 +0000"
@@ -8999,6 +9005,12 @@
   "everycomp:recipes/decorations/mcfur/regions_unexplored/pine_modern_chair": {
     "criteria": {
       "has_planks": "2025-01-08 03:59:05 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/opulent_armor_boots": {
+    "criteria": {
+      "has_emerald_gear_boots": "2025-01-08 04:38:30 +0000"
     },
     "done": true
   },

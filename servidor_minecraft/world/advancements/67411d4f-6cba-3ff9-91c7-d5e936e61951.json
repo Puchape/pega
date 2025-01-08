@@ -3090,6 +3090,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-01-08 04:41:02 +0000",
       "bread": "2025-01-08 03:50:41 +0000",
       "cooked_salmon": "2025-01-08 03:32:21 +0000"
     },
@@ -3353,6 +3354,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:43:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 04:09:41 +0000"
@@ -3404,6 +3411,12 @@
   "mcda:recipes/base_armors/ghostly_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-01-08 04:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:43:14 +0000"
     },
     "done": true
   },
@@ -3461,6 +3474,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/asian_red_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:43:14 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_gloves": {
     "criteria": {
       "has_leather": "2025-01-08 04:28:10 +0000"
@@ -3482,6 +3501,12 @@
   "mcdw:recipes/shortbows/bow_purple_storm": {
     "criteria": {
       "has_string": "2025-01-08 03:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-08 04:43:51 +0000"
     },
     "done": true
   },
@@ -3611,6 +3636,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-01-08 04:53:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-01-08 03:52:14 +0000"
@@ -3698,6 +3729,12 @@
   "mca:recipes/misc/needle_and_thread": {
     "criteria": {
       "has_item": "2025-01-08 03:52:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/asian_red_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:43:14 +0000"
     },
     "done": true
   },
@@ -3824,6 +3861,12 @@
   "everycomp:recipes/decorations/mcfur/regions_unexplored/willow_modern_wardrobe": {
     "criteria": {
       "has_planks": "2025-01-08 04:00:36 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-01-08 04:39:53 +0000"
     },
     "done": true
   },
@@ -4133,6 +4176,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:43:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-01-08 03:53:09 +0000"
@@ -4208,6 +4257,12 @@
   "mcdw:recipes/crossbows/crossbow_feral_soul": {
     "criteria": {
       "has_string": "2025-01-08 03:52:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-08 04:43:51 +0000"
     },
     "done": true
   },
@@ -4493,9 +4548,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:43:14 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/willow_pressure_plate": {
     "criteria": {
       "has_willow_planks": "2025-01-08 04:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:43:14 +0000"
     },
     "done": true
   },
@@ -4718,6 +4785,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-01-08 03:52:14 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/oak_wine_rack_small": {
+    "criteria": {
+      "has_oak_planks": "2025-01-08 04:43:14 +0000"
     },
     "done": true
   },
@@ -5000,6 +5073,12 @@
   "everycomp:recipes/decorations/tf/regions_unexplored/hollow_willow_log": {
     "criteria": {
       "has_planks": "2025-01-08 04:00:36 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_mace": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-08 04:43:51 +0000"
     },
     "done": true
   },
@@ -5351,6 +5430,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:43:14 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/longbows/bow_longbow": {
     "criteria": {
       "has_string": "2025-01-08 03:52:14 +0000"
@@ -5453,6 +5538,12 @@
     },
     "done": true
   },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_backpack": "2025-01-08 04:53:24 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_broken_sawblade": {
     "criteria": {
       "has_gold_ingot": "2025-01-08 03:53:09 +0000"
@@ -5513,6 +5604,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/rope_oak_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:43:14 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2025-01-08 04:09:41 +0000"
@@ -5528,6 +5625,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-08 04:06:57 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:43:14 +0000"
     },
     "done": true
   },
@@ -5645,6 +5748,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:43:14 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2025-01-08 04:30:05 +0000"
@@ -5654,6 +5763,12 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-01-08 04:27:49 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/oak_wine_rack_big": {
+    "criteria": {
+      "has_oak_planks": "2025-01-08 04:43:14 +0000"
     },
     "done": true
   },
@@ -5792,6 +5907,12 @@
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_bookshelf": {
     "criteria": {
       "has_planks": "2025-01-08 04:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:43:14 +0000"
     },
     "done": true
   },
@@ -6052,6 +6173,12 @@
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_striped_chair": {
     "criteria": {
       "has_planks": "2025-01-08 04:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:43:14 +0000"
     },
     "done": true
   },
@@ -6403,6 +6530,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:43:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-01-08 04:06:57 +0000"
@@ -6418,6 +6551,12 @@
   "mcda:recipes/base_armors/snow_armor_boots": {
     "criteria": {
       "has_iron_boots": "2025-01-08 03:53:11 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_freezing_foil": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-08 04:43:51 +0000"
     },
     "done": true
   },
@@ -6565,6 +6704,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-08 04:43:14 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/redstone/tag_hopper": {
     "criteria": {
       "has_tag_c_iron_ingots": "2025-01-08 04:09:41 +0000"
@@ -6586,6 +6731,12 @@
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2025-01-08 04:27:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-08 04:43:51 +0000"
     },
     "done": true
   },

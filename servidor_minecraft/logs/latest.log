@@ -3458,3 +3458,13 @@ io.netty.channel.StacklessClosedChannelException: null
 [08Jan2025 04:23:31.498] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonAlignment
 [08Jan2025 04:25:22.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hank_218 has made the advancement [Mine? Mine? Mine?]
 [08Jan2025 04:26:37.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CamoteChevere_ has made the advancement [String Theory]
+[08Jan2025 04:39:53.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hank_218 has made the advancement [Pic-A-Nic Basket?]
+[08Jan2025 04:41:20.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsShadowXx has made the advancement [A Seedy Place]
+[08Jan2025 04:55:29.985] [Server thread/INFO] [org.dimdev.dimdoors.pockets.generator.SchematicGenerator/]: Generating pocket from template dimdoors:dungeon/waiting_room at location BlockPos{x=1792, y=0, z=768}
+[08Jan2025 04:55:30.076] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/dimdev/dimdoors/api/util/math/MathUtil$EulerAngleDirection
+[08Jan2025 04:55:30.094] [Server thread/ERROR] [org.dimdev.dimdoors.network.ServerPacketHandler/]: java.lang.NullPointerException: Unknown message type! org.dimdev.dimdoors.network.packet.s2c.SyncPocketAddonsS2CPacket@1731c485
+[08Jan2025 04:55:30.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elaurus moved too quickly! 1730.5910920710394,-48.2736084468121,961.817458828359
+[08Jan2025 04:57:05.529] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[08Jan2025 04:57:10.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hank_218 moved too quickly! 3.98347507816505,2.1661092609382138,-9.007873920847558
+[08Jan2025 04:57:10.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elaurus moved too quickly! -2.1044578982016873,9.687062438504682,-2.1120196833823286
+[08Jan2025 04:57:10.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5992ms or 119 ticks behind

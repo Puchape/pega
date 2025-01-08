@@ -3439,3 +3439,22 @@ io.netty.channel.StacklessClosedChannelException: null
 [08Jan2025 04:06:03.767] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
 [08Jan2025 04:06:18.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hank_218 has made the advancement [Sweet Dreams]
 [08Jan2025 04:06:20.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsShadowXx has made the advancement [Sweet Dreams]
+[08Jan2025 04:07:20.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elaurus has made the advancement [Sweet Dreams]
+[08Jan2025 04:08:27.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CamoteChevere_ has made the advancement [Sweet Dreams]
+[08Jan2025 04:08:34.772] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[08Jan2025 04:08:34.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ItsShadowXx> Z
+[08Jan2025 04:08:34.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ItsShadowXx> Z
+[08Jan2025 04:08:35.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ItsShadowXx> Z
+[08Jan2025 04:08:35.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ItsShadowXx> Z
+[08Jan2025 04:08:35.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ItsShadowXx> Z
+[08Jan2025 04:08:35.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ItsShadowXx> Z
+[08Jan2025 04:09:41.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hank_218 has made the advancement [Acquire Hardware]
+[08Jan2025 04:11:18.921] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[08Jan2025 04:13:52.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elaurus has made the advancement [Diamonds!]
+[08Jan2025 04:20:55.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CamoteChevere_ has made the advancement [Ice Bucket Challenge]
+[08Jan2025 04:22:08.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CamoteChevere_ moved wrongly!
+[08Jan2025 04:23:31.496] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/TweakType
+[08Jan2025 04:23:31.497] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonState
+[08Jan2025 04:23:31.498] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonAlignment
+[08Jan2025 04:25:22.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hank_218 has made the advancement [Mine? Mine? Mine?]
+[08Jan2025 04:26:37.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CamoteChevere_ has made the advancement [String Theory]

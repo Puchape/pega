@@ -4115,6 +4115,7 @@
       "minecraft:creeper": "2025-01-08 01:45:59 +0000",
       "minecraft:witch": "2025-01-08 03:27:04 +0000",
       "minecraft:husk": "2025-01-08 02:24:46 +0000",
+      "minecraft:silverfish": "2025-01-08 04:12:57 +0000",
       "minecraft:zombie": "2025-01-08 01:27:48 +0000",
       "minecraft:drowned": "2025-01-08 01:45:37 +0000"
     },
@@ -8327,9 +8328,2416 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/copy_bowl_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-08 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_end_table": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/willow_wired_fence": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "dimdoors:recipes/tesselating/tesselating/rift_blade": {
+    "criteria": {
+      "inventory_changed": "2025-01-08 04:13:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_table": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_glass_table": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_wardrobe": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-01-08 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-01-08 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_hoe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-01-08 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_modern_desk": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/willow_barn_glass_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/willow_post": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_piston": {
+    "criteria": {
+      "has_redstone": "2025-01-08 04:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-08 04:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-01-08 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/guide_book": {
+    "criteria": {
+      "has_book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/regions_unexplored/willow_banister": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_end_table": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/dragon_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_modern_desk": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_drawer_counter": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/willow_button": {
+    "criteria": {
+      "has_willow_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_oak_sign": "2025-01-08 04:16:49 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_truthseeker": {
+    "criteria": {
+      "has_diamond": "2025-01-08 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_chest": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_double_wardrobe": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_double_wardrobe": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_glass_table": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_classic_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_wardrobe": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/mossy_glowshroom_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_double_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_modern_wardrobe": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_tropical_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_maple_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/willow_horse_fence": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/vertical_maple_planks": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_pickaxe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-01-08 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/willow_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/umbrella_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_large_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/willow_modern_chair": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_four_panel_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/willow_large_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infinity_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/maple_log_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/willow_door": {
+    "criteria": {
+      "has_willow_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_maple_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/maple_window_pane": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/willow_chest": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_mushroom_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-01-08 04:22:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:21 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/willow_nether_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_stool_chair": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_stable_head_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/willow_japanese_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_triple_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/fire_protection_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/willow_lower_bookshelf_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-01-08 04:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-08 04:16:23 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_counter": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_paper_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/regions_unexplored/maple_tiki_torch": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2025-01-08 04:16:23 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/willow_cupboard_counter": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_maple": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-01-08 04:17:18 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/flame_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_modern_desk": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_modern_wardrobe": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/willow_wardrobe": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/willow_modern_wardrobe": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/maple_rope_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_modern_chair": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_desk": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/lure_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:21 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_double_drawer_counter": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_barn_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_large_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_desk": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/willow_slab": {
+    "criteria": {
+      "has_willow_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/willow_glass_table": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-01-08 04:16:23 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/willow_swamp_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/stripped_maple_post": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/willow_log_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_red": {
+    "criteria": {
+      "has_redstone": "2025-01-08 04:16:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-01-08 04:22:31 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/willow_counter": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_diamond_sword_var": {
+    "criteria": {
+      "has_diamond": "2025-01-08 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/maple_wired_fence": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_maple_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:21 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/crimson_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-01-08 04:22:31 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_spruce_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:21 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/spruce_wine_rack_big": {
+    "criteria": {
+      "has_spruce_planks": "2025-01-08 04:05:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-01-08 04:16:23 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_drawer_counter": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/willow_table": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/rope_maple_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/swift_sneak_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/maple_stockade_fence": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/willow_bark_glass_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_maple_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/spruce_wine_rack_small": {
+    "criteria": {
+      "has_spruce_planks": "2025-01-08 04:05:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_maple_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/willow_modern_desk": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/regions_unexplored/willow_beehive": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_pot": {
+    "criteria": {
+      "has_spruce_planks": "2025-01-08 04:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/willow_triple_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/protection_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/willow_barn_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_bamboo_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-01-08 04:16:30 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-08 04:05:21 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_shelf": {
+    "criteria": {
+      "has_spruce_planks": "2025-01-08 04:05:21 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_glaive": {
+    "criteria": {
+      "has_the_recipe": "2025-01-08 04:13:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:21 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/maple_picket_fence": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/regions_unexplored/maple_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/pythadendron_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-01-08 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/willow_stable_head_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_chair": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_bookshelf_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/regions_unexplored/willow_tiki_torch": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/knockback_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/stalagnate_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_axe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-01-08 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_modern_chair": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/fortune_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_cupboard_counter": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/willow_trapped_chest": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_glaive_vanilla_sword": {
+    "criteria": {
+      "has_iron_sword": "2025-01-08 04:13:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/willow_window_pane": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-08 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_maple_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_desk": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/lucernia_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_covered_desk": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_barn_glass_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-01-08 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_cupboard_counter": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/willow_stockade_fence": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_end_table": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aqua_affinity_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_reed_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-01-08 04:22:31 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/fire_aspect_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/willow_sign": {
+    "criteria": {
+      "has_willow_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_jukebox": {
+    "criteria": {
+      "has_diamond": "2025-01-08 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_sakura_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-01-08 04:22:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/raw_redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-01-08 04:16:23 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/willow_window": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/willow_pressure_plate": {
+    "criteria": {
+      "has_willow_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/maple_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/willow_cottage_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_mushroom_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_drawer_counter": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/respiration_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/soul_speed_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/anchor_tree_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-01-08 04:22:31 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/willow_rope_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/looting_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/willow_double_wardrobe": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/willow_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/depth_strider_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/willow_bamboo_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/unbreaking_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/loyalty_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/willow_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_wardrobe": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/regions_unexplored/soul_willow_tiki_torch": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/rubeus_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/willow_chair": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/jellyshroom_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_modern_chair": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/willow_tropical_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_glass_table": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/willow_vertical_slab_1": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_bookshelf_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shovel_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-01-08 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/power_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/willow_striped_chair": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/willow_drawer_counter": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/smite_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_sakura_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_cupboard_counter": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/willow_covered_desk": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_covered_desk": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/warped_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-01-08 04:22:31 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_vertical_slab": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_japanese2_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/mushroom_fir_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-01-08 04:22:31 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/quick_charge_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_shulker_box": {
+    "criteria": {
+      "has_tag_c_chest": "2025-01-08 04:22:31 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-01-08 04:22:31 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/stripped_willow_post": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/regions_unexplored/soul_maple_tiki_torch": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/willow_paper_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_maple_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/willow_bookshelf_cupboard": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_lower_bookshelf_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_truthseeker_vanilla_sword": {
+    "criteria": {
+      "has_the_recipe": "2025-01-08 04:13:52 +0000",
+      "has_diamond": "2025-01-08 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_bark_glass_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_triple_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_reed_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/regions_unexplored/hollow_willow_log": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/willow_end_table": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-01-08 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/channeling_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_double_drawer_counter": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/willow_picket_fence": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/willow_double_drawer_counter": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-08 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2025-01-08 04:13:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/maple_highley_gate": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_lower_triple_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/willow_stool_chair": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/end_lotus_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_cottage_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/frost_walker_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/mushroom_fir_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/willow_japanese2_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/willow_desk": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/lacugrove_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-01-08 04:22:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-01-08 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/willow_modern_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/crimson_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/hollow_willow_log": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_bookshelf_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_table": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/punch_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/willow_lower_triple_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-01-08 04:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_counter": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_double_wardrobe": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/tenanea_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/regions_unexplored/maple_beehive": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_double_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/efficiency_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/helix_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/regions_unexplored/willow_ceiling_fan_light": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:21 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blast_protection_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-01-08 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_japanese_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/anchor_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/willow_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/willow_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_swamp_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2025-01-08 04:16:23 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/vertical_willow_planks": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/maple_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-08 04:16:23 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_lower_bookshelf_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/maple_pyramid_gate": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/willow_double_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-01-08 04:19:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/cincinnasite_sword_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-01-08 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-08 04:22:31 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/hollow_maple_log": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/warped_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_double_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_post": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_table": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/willow_bookshelf_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_flaming_ruby_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-08 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_bud": {
+    "criteria": {
+      "has_redstone": "2025-01-08 04:16:23 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/silk_touch_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/rubeus_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-01-08 04:22:31 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_cincinnasite_diamond_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-08 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/willow_western_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-01-08 04:16:23 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/rope_willow_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/luck_of_sea_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/stalagnate_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-01-08 04:22:31 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_bookshelf_cupboard": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-01-08 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-01-08 04:16:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "forge:ash": "2025-01-08 04:16:30 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/piercing_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/willow_stable_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/impaling_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_bookshelf_cupboard": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_stool_chair": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_counter": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_trapped_chest": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/regions_unexplored/willow_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_lower_triple_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-08 04:16:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-01-08 04:16:23 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_mystic_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-01-08 04:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-01-08 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/willow_trapdoor": {
+    "criteria": {
+      "has_willow_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-01-08 04:16:23 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/riptide_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_western_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_the_recipe": "2025-01-08 04:05:21 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/willow_beach_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/iron_smithing": {
     "criteria": {
       "has_iron": "2025-01-08 03:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-01-08 04:22:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2025-01-08 04:16:23 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_striped_chair": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_triple_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/willow_glass_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/willow_highley_gate": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_modern_wardrobe": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/regions_unexplored/maple_ceiling_fan_light": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves": {
+    "criteria": {
+      "has_diamond": "2025-01-08 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_glass_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_stable_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-01-08 04:16:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2025-01-08 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_vertical_slab_1": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_willow_double_drawer_counter": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-01-08 04:13:39 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_aeternium_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-08 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sharpness_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_lower_bookshelf_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_lower_triple_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/wart_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-01-08 04:22:31 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/mending_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/willow_four_panel_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/willow_ladder": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/regions_unexplored/hollow_maple_log": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_ladder": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/willow_pyramid_gate": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-01-08 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_chair": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/feather_falling_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_striped_chair": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-01-08 04:19:44 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_covered_desk": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-01-08 04:16:23 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_waffle_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/wart_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/willow_fence_gate": {
+    "criteria": {
+      "has_willow_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_maple_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_willow": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/projectile_protection_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_large_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/willow_classic_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_nether_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_maple_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2025-01-08 04:21:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/willow_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/regions_unexplored/maple_banister": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_chair": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sweeping_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_bookshelf_cupboard": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:21 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/maple_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/willow_fence": {
+    "criteria": {
+      "has_willow_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-01-08 04:22:31 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/bane_of_arthropods_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_beach_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_redstone": "2025-01-08 04:16:23 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_maple_striped_chair": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/maple_window": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:21 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thorns_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/willow_stairs": {
+    "criteria": {
+      "has_willow_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_chest": "2025-01-08 04:22:31 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/regions_unexplored/maple_horse_fence": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/willow_vertical_slab": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/willow_mystic_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-01-08 04:16:23 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/maple_modern_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:21 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/maple_stool_chair": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:29 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/willow_waffle_door": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/regions_unexplored/willow_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-01-08 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/regions_unexplored/willow_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-01-08 04:06:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/multishot_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-01-08 04:13:53 +0000"
     },
     "done": true
   },

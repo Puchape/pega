@@ -3740,3 +3740,31 @@ io.netty.channel.StacklessClosedChannelException: null
 [09Jan2025 06:35:07.789] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-1701, y=44, z=-5004}
 [09Jan2025 06:35:37.578] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/object/PlayState
 [09Jan2025 06:46:00.026] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Anastasya}[style={}] has been infected
+[09Jan2025 06:52:09.828] [Server thread/INFO] [org.dimdev.dimdoors.pockets.generator.SchematicGenerator/]: Generating pocket from template dimdoors:classic/ruins/jump_pass at location BlockPos{x=240, y=0, z=2288}
+[09Jan2025 06:52:10.112] [Server thread/ERROR] [org.dimdev.dimdoors.network.ServerPacketHandler/]: java.lang.NullPointerException: Unknown message type! org.dimdev.dimdoors.network.packet.s2c.SyncPocketAddonsS2CPacket@35a2a74d
+[09Jan2025 06:52:53.520] [Server thread/INFO] [org.dimdev.dimdoors.pockets.generator.SchematicGenerator/]: Generating pocket from template dimdoors:classic/ruins/small_desert at location BlockPos{x=752, y=0, z=2288}
+[09Jan2025 06:52:53.564] [Server thread/ERROR] [org.dimdev.dimdoors.network.ServerPacketHandler/]: java.lang.NullPointerException: Unknown message type! org.dimdev.dimdoors.network.packet.s2c.SyncPocketAddonsS2CPacket@3fe1dedd
+[09Jan2025 06:53:26.382] [Server thread/ERROR] [org.dimdev.dimdoors.network.ServerPacketHandler/]: java.lang.NullPointerException: Unknown message type! org.dimdev.dimdoors.network.packet.s2c.SyncPocketAddonsS2CPacket@3189cd40
+[09Jan2025 06:54:08.022] [Server thread/ERROR] [org.dimdev.dimdoors.network.ServerPacketHandler/]: java.lang.NullPointerException: Unknown message type! org.dimdev.dimdoors.network.packet.s2c.SyncPocketAddonsS2CPacket@18faade5
+[09Jan2025 06:54:16.121] [Server thread/ERROR] [org.dimdev.dimdoors.network.ServerPacketHandler/]: java.lang.NullPointerException: Unknown message type! org.dimdev.dimdoors.network.packet.s2c.SyncPocketAddonsS2CPacket@281342c8
+[09Jan2025 06:54:30.544] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[09Jan2025 06:54:32.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2843ms or 56 ticks behind
+[09Jan2025 06:57:07.559] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jan2025 06:57:07.560] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jan2025 06:57:07.567] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jan2025 06:57:07.567] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jan2025 06:57:07.569] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jan2025 06:57:07.570] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jan2025 06:57:07.570] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jan2025 06:57:07.571] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jan2025 06:57:07.573] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jan2025 06:59:43.915] [Worker-Main-21/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:2.828427f,range:8,source:{pos:[I;-340,-59,12],type:"minecraft:block"}}]
+[09Jan2025 06:59:43.916] [Worker-Main-21/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-338,-59,10],type:"minecraft:block"}}]
+[09Jan2025 06:59:43.916] [Worker-Main-21/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:2.828427f,range:8,source:{pos:[I;-336,-59,8],type:"minecraft:block"}}]
+[09Jan2025 06:59:43.920] [Worker-Main-21/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/building/entity/GlassItemFrame$SignAttachment
+[09Jan2025 06:59:44.098] [Worker-Main-21/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/block/tiles/PedestalBlockTile$DisplayType
+[09Jan2025 07:00:09.769] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/SequencerInstructions
+[09Jan2025 07:00:10.262] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/block/tiles/StatueBlockTile$StatuePose
+[09Jan2025 07:00:59.918] [Worker-Main-33/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[09Jan2025 07:01:20.029] [Worker-Main-21/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/fluids/FluidTransportBehaviour$UpdatePhase
+[09Jan2025 07:01:43.211] [Worker-Main-33/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/faboslav/friendsandfoes/common/entity/MaulerEntity$Type

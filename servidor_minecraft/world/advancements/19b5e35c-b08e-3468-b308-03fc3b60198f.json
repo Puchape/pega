@@ -11911,15 +11911,159 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_stable_head_door": {
+  "fabric-hammers:recipes/tools/emerald_pickaxe": {
     "criteria": {
-      "has_planks": "2025-01-09 03:45:52 +0000"
+      "has_stick": "2025-01-09 01:52:28 +0000"
     },
     "done": true
   },
   "dimdoors:recipes/misc/stone_door": {
     "criteria": {
       "inventory_changed": "2025-01-09 02:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-09 02:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-01-09 02:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-01-09 02:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-09 02:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-09 02:18:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone": {
+    "criteria": {
+      "has_stone": "2025-01-09 02:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-01-09 02:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-01-09 02:18:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_stone": "2025-01-09 02:18:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/prismoss": {
+    "criteria": {
+      "has_stone": "2025-01-09 02:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-09 02:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-09 02:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-01-09 02:18:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/stone_grass_block": {
+    "criteria": {
+      "has_stone": "2025-01-09 02:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-09 02:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-01-09 02:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-01-09 02:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-09 02:18:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/mauve_shrub": {
+    "criteria": {
+      "has_mauve_sapling": "2025-01-09 02:57:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_wood": {
+    "criteria": {
+      "has_log": "2025-01-09 03:02:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/mauve_branch_from_mauve_log": {
+    "criteria": {
+      "has_log": "2025-01-09 03:02:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_planks": {
+    "criteria": {
+      "has_logs": "2025-01-09 03:02:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2025-01-09 03:09:38 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_stable_head_door": {
+    "criteria": {
+      "has_planks": "2025-01-09 03:45:52 +0000"
     },
     "done": true
   },
@@ -11956,12 +12100,6 @@
   "everycomp:recipes/decorations/mcl/regions_unexplored/mauve_ceiling_fan_light": {
     "criteria": {
       "has_planks": "2025-01-09 03:45:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-01-09 02:18:27 +0000"
     },
     "done": true
   },
@@ -12037,12 +12175,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2025-01-09 02:18:27 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_drawer_counter": {
     "criteria": {
       "has_planks": "2025-01-09 03:45:52 +0000"
@@ -12073,12 +12205,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stonecutter": {
-    "criteria": {
-      "has_stone": "2025-01-09 02:18:27 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/building_blocks/c/regions_unexplored/mauve_window": {
     "criteria": {
       "has_planks": "2025-01-09 03:45:52 +0000"
@@ -12088,24 +12214,6 @@
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_chair": {
     "criteria": {
       "has_planks": "2025-01-09 03:45:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-01-09 02:18:27 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/mauve_shrub": {
-    "criteria": {
-      "has_mauve_sapling": "2025-01-09 02:57:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-01-09 02:18:27 +0000"
     },
     "done": true
   },
@@ -12145,18 +12253,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/mossy_stone": {
-    "criteria": {
-      "has_stone": "2025-01-09 02:18:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2025-01-09 02:18:27 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_double_drawer_counter": {
     "criteria": {
       "has_planks": "2025-01-09 03:45:52 +0000"
@@ -12166,12 +12262,6 @@
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_double_drawer": {
     "criteria": {
       "has_planks": "2025-01-09 03:45:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2025-01-09 02:18:27 +0000"
     },
     "done": true
   },
@@ -12220,12 +12310,6 @@
   "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_table": {
     "criteria": {
       "has_planks": "2025-01-09 03:45:52 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/stone_lamp": {
-    "criteria": {
-      "has_stone": "2025-01-09 02:18:27 +0000"
     },
     "done": true
   },
@@ -12307,18 +12391,6 @@
     },
     "done": true
   },
-  "aether:recipes/tools/diamond_shovel_repairing": {
-    "criteria": {
-      "has_diamond_shovel": "2025-01-09 03:09:38 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/prismoss": {
-    "criteria": {
-      "has_stone": "2025-01-09 02:18:27 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcf/regions_unexplored/mauve_wired_fence": {
     "criteria": {
       "has_planks": "2025-01-09 03:45:52 +0000"
@@ -12328,12 +12400,6 @@
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_bookshelf_cupboard": {
     "criteria": {
       "has_planks": "2025-01-09 03:45:52 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/mauve_wood": {
-    "criteria": {
-      "has_log": "2025-01-09 03:02:08 +0000"
     },
     "done": true
   },
@@ -12415,12 +12481,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/mauve_branch_from_mauve_log": {
-    "criteria": {
-      "has_log": "2025-01-09 03:02:08 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_striped_chair": {
     "criteria": {
       "has_planks": "2025-01-09 03:45:52 +0000"
@@ -12442,12 +12502,6 @@
   "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_lower_triple_drawer": {
     "criteria": {
       "has_planks": "2025-01-09 03:45:52 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/mauve_planks": {
-    "criteria": {
-      "has_logs": "2025-01-09 03:02:08 +0000"
     },
     "done": true
   },
@@ -12481,18 +12535,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-01-09 02:18:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-01-09 02:18:27 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_mauve_modern_desk": {
     "criteria": {
       "has_planks": "2025-01-09 03:45:52 +0000"
@@ -12523,12 +12565,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
-    "criteria": {
-      "has_stone": "2025-01-09 02:18:27 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_swamp_door": {
     "criteria": {
       "has_planks": "2025-01-09 03:45:52 +0000"
@@ -12541,27 +12577,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/stone_grass_block": {
-    "criteria": {
-      "has_stone": "2025-01-09 02:18:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-01-09 02:18:27 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_paper_door": {
     "criteria": {
       "has_planks": "2025-01-09 03:45:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2025-01-09 02:18:27 +0000"
     },
     "done": true
   },
@@ -12598,12 +12616,6 @@
   "everycomp:recipes/decorations/mcfur/regions_unexplored/mauve_end_table": {
     "criteria": {
       "has_planks": "2025-01-09 03:45:52 +0000"
-    },
-    "done": true
-  },
-  "fabric-hammers:recipes/tools/emerald_pickaxe": {
-    "criteria": {
-      "has_stick": "2025-01-09 01:52:28 +0000"
     },
     "done": true
   },
@@ -12649,12 +12661,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone": {
-    "criteria": {
-      "has_stone": "2025-01-09 02:18:27 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_western_door": {
     "criteria": {
       "has_planks": "2025-01-09 03:45:52 +0000"
@@ -12676,12 +12682,6 @@
   "everycomp:recipes/decorations/mcd/regions_unexplored/mauve_four_panel_door": {
     "criteria": {
       "has_planks": "2025-01-09 03:45:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-01-09 02:18:27 +0000"
     },
     "done": true
   },

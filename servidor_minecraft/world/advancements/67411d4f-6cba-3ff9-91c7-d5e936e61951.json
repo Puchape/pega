@@ -8619,15 +8619,39 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-09 05:05:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-09 05:02:16 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/chainmail_boots_repairing": {
     "criteria": {
       "has_chainmail_boots": "2025-01-09 04:34:58 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-01-09 05:02:16 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/oak_banister": {
     "criteria": {
       "has_item": "2025-01-09 04:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-09 05:02:16 +0000"
     },
     "done": true
   },

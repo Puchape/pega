@@ -3726,3 +3726,7 @@ io.netty.channel.StacklessClosedChannelException: null
 [09Jan2025 05:01:20.379] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
 [09Jan2025 05:02:55.092] [Server thread/INFO] [org.dimdev.dimdoors.pockets.generator.SchematicGenerator/]: Generating pocket from template dimdoors:dungeon/ruins_pressure_plate_riddle at location BlockPos{x=-272, y=0, z=1776}
 [09Jan2025 05:02:55.265] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/dimdev/dimdoors/api/util/math/MathUtil$EulerAngleDirection
+[09Jan2025 05:05:09.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elaurus has completed the challenge [Hero of the Village]
+[09Jan2025 05:05:09.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hank_218 has completed the challenge [Hero of the Village]
+[09Jan2025 05:05:24.776] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/s2c/OpenGuiRequest$Type
+[09Jan2025 05:07:24.034] [pool-3-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult

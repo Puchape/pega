@@ -3730,3 +3730,4 @@ io.netty.channel.StacklessClosedChannelException: null
 [09Jan2025 05:05:09.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hank_218 has completed the challenge [Hero of the Village]
 [09Jan2025 05:05:24.776] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/s2c/OpenGuiRequest$Type
 [09Jan2025 05:07:24.034] [pool-3-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[09Jan2025 05:27:38.076] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase

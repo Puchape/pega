@@ -12703,5 +12703,12 @@
     },
     "done": true
   },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "orange": "2025-01-09 04:23:44 +0000",
+      "white": "2025-01-09 04:23:48 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

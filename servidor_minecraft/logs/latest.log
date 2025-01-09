@@ -3703,3 +3703,16 @@ io.netty.channel.StacklessClosedChannelException: null
 [09Jan2025 04:14:32.907] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/sorter/SortType$Type
 [09Jan2025 04:19:28.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elaurus moved too quickly! -4.671146417614807,0.0,8.916991785266873
 [09Jan2025 04:22:54.574] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[09Jan2025 04:25:26.638] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[09Jan2025 04:25:30.303] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[09Jan2025 04:25:30.372] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[09Jan2025 04:25:30.807] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[09Jan2025 04:25:30.988] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/pathfinder/ExtendedPathNodeType
+[09Jan2025 04:25:32.727] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/poly2tri/triangulation/TriangulationAlgorithm
+[09Jan2025 04:25:32.729] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/poly2tri/triangulation/TriangulationMode
+[09Jan2025 04:25:32.734] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/poly2tri/triangulation/TriangulationUtil$Orientation
+[09Jan2025 04:25:33.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elaurus moved wrongly!
+[09Jan2025 04:25:35.687] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
+[09Jan2025 04:25:40.871] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[09Jan2025 04:25:41.735] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[09Jan2025 04:27:00.464] [Worker-Main-21/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType

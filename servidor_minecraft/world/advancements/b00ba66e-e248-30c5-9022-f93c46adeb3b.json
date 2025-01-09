@@ -251,6 +251,7 @@
       "minecraft:sparse_jungle": "2025-01-08 03:15:21 +0000",
       "minecraft:river": "2025-01-07 18:01:25 +0000",
       "minecraft:lukewarm_ocean": "2025-01-08 23:37:39 +0000",
+      "minecraft:stony_shore": "2025-01-09 01:25:32 +0000",
       "minecraft:cold_ocean": "2025-01-08 01:42:02 +0000",
       "minecraft:forest": "2025-01-08 03:05:54 +0000",
       "minecraft:desert": "2025-01-08 23:18:03 +0000",
@@ -645,12 +646,6 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/q/regions_unexplored/stripped_pine_post": {
-    "criteria": {
-      "has_planks": "2025-01-08 01:14:08 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcf/regions_unexplored/pine_pyramid_gate": {
     "criteria": {
       "has_planks": "2025-01-08 01:14:08 +0000"
@@ -676,18 +671,6 @@
     "done": true
   },
   "everycomp:recipes/decorations/mcb/regions_unexplored/rope_pine_bridge": {
-    "criteria": {
-      "has_planks": "2025-01-08 01:14:08 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/pine_post": {
-    "criteria": {
-      "has_planks": "2025-01-08 01:14:08 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/pine_chest": {
     "criteria": {
       "has_planks": "2025-01-08 01:14:08 +0000"
     },
@@ -789,12 +772,6 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/q/regions_unexplored/pine_ladder": {
-    "criteria": {
-      "has_planks": "2025-01-08 01:14:08 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/pine_lower_bookshelf_drawer": {
     "criteria": {
       "has_planks": "2025-01-08 01:14:08 +0000"
@@ -820,12 +797,6 @@
     "done": true
   },
   "everycomp:recipes/decorations/mcd/regions_unexplored/pine_stable_head_door": {
-    "criteria": {
-      "has_planks": "2025-01-08 01:14:08 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/vertical_pine_planks": {
     "criteria": {
       "has_planks": "2025-01-08 01:14:08 +0000"
     },
@@ -928,12 +899,6 @@
     "done": true
   },
   "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2025-01-08 01:14:08 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/pine_vertical_slab_1": {
     "criteria": {
       "has_planks": "2025-01-08 01:14:08 +0000"
     },
@@ -1251,12 +1216,6 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/q/regions_unexplored/pine_bookshelf": {
-    "criteria": {
-      "has_planks": "2025-01-08 01:14:08 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/tf/regions_unexplored/pine_banister": {
     "criteria": {
       "has_planks": "2025-01-08 01:14:08 +0000"
@@ -1270,12 +1229,6 @@
     "done": true
   },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/pine_bookshelf_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-08 01:14:08 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/pine_trapped_chest": {
     "criteria": {
       "has_planks": "2025-01-08 01:14:08 +0000"
     },
@@ -6154,12 +6107,6 @@
     },
     "done": true
   },
-  "mythicmounts:summoning_staff": {
-    "criteria": {
-      "has_pearl": "2025-01-08 02:51:01 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
       "has_ender_pearl": "2025-01-08 02:51:01 +0000"
@@ -7228,12 +7175,6 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/q/regions_unexplored/blackwood_vertical_slab_1": {
-    "criteria": {
-      "has_planks": "2025-01-08 04:24:34 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcl/regions_unexplored/blackwood_tiki_torch": {
     "criteria": {
       "has_planks": "2025-01-08 04:24:34 +0000"
@@ -7288,12 +7229,6 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/q/regions_unexplored/blackwood_ladder": {
-    "criteria": {
-      "has_planks": "2025-01-08 04:24:34 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/decorations/regions_unexplored/sign_post_blackwood": {
     "criteria": {
       "has_planks": "2025-01-08 04:24:34 +0000"
@@ -7301,12 +7236,6 @@
     "done": true
   },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/blackwood_lower_triple_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-08 04:24:34 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/stripped_blackwood_post": {
     "criteria": {
       "has_planks": "2025-01-08 04:24:34 +0000"
     },
@@ -7480,12 +7409,6 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/q/regions_unexplored/vertical_blackwood_planks": {
-    "criteria": {
-      "has_planks": "2025-01-08 04:24:34 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_blackwood_triple_drawer": {
     "criteria": {
       "has_planks": "2025-01-08 04:24:34 +0000"
@@ -7552,12 +7475,6 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/q/regions_unexplored/blackwood_trapped_chest": {
-    "criteria": {
-      "has_planks": "2025-01-08 04:24:34 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_blackwood_large_drawer": {
     "criteria": {
       "has_planks": "2025-01-08 04:24:34 +0000"
@@ -7595,12 +7512,6 @@
     "done": true
   },
   "everycomp:recipes/decorations/mcd/regions_unexplored/blackwood_barn_glass_door": {
-    "criteria": {
-      "has_planks": "2025-01-08 04:24:34 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/blackwood_bookshelf": {
     "criteria": {
       "has_planks": "2025-01-08 04:24:34 +0000"
     },
@@ -7672,12 +7583,6 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/q/regions_unexplored/blackwood_post": {
-    "criteria": {
-      "has_planks": "2025-01-08 04:24:34 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_blackwood_glass_table": {
     "criteria": {
       "has_planks": "2025-01-08 04:24:34 +0000"
@@ -7721,12 +7626,6 @@
     "done": true
   },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/blackwood_double_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-08 04:24:34 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/blackwood_chest": {
     "criteria": {
       "has_planks": "2025-01-08 04:24:34 +0000"
     },
@@ -9101,12 +9000,6 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/q/regions_unexplored/joshua_post": {
-    "criteria": {
-      "has_planks": "2025-01-08 23:31:35 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/building_blocks/c/regions_unexplored/joshua_window_pane": {
     "criteria": {
       "has_planks": "2025-01-08 23:31:35 +0000"
@@ -9137,12 +9030,6 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/q/regions_unexplored/joshua_bookshelf": {
-    "criteria": {
-      "has_planks": "2025-01-08 23:31:35 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/joshua_covered_desk": {
     "criteria": {
       "has_planks": "2025-01-08 23:31:35 +0000"
@@ -9156,12 +9043,6 @@
     "done": true
   },
   "everycomp:recipes/decorations/mcd/regions_unexplored/joshua_glass_door": {
-    "criteria": {
-      "has_planks": "2025-01-08 23:31:35 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/joshua_vertical_slab": {
     "criteria": {
       "has_planks": "2025-01-08 23:31:35 +0000"
     },
@@ -9305,12 +9186,6 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/q/regions_unexplored/joshua_ladder": {
-    "criteria": {
-      "has_planks": "2025-01-08 23:31:35 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/joshua_cupboard_counter": {
     "criteria": {
       "has_planks": "2025-01-08 23:31:35 +0000"
@@ -9348,12 +9223,6 @@
     "done": true
   },
   "everycomp:recipes/decorations/mcd/regions_unexplored/joshua_paper_door": {
-    "criteria": {
-      "has_planks": "2025-01-08 23:31:35 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/joshua_trapped_chest": {
     "criteria": {
       "has_planks": "2025-01-08 23:31:35 +0000"
     },
@@ -9485,12 +9354,6 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/q/regions_unexplored/stripped_joshua_post": {
-    "criteria": {
-      "has_planks": "2025-01-08 23:31:35 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_joshua_wardrobe": {
     "criteria": {
       "has_planks": "2025-01-08 23:31:35 +0000"
@@ -9539,12 +9402,6 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/q/regions_unexplored/joshua_chest": {
-    "criteria": {
-      "has_planks": "2025-01-08 23:31:35 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/joshua_striped_chair": {
     "criteria": {
       "has_planks": "2025-01-08 23:31:35 +0000"
@@ -9564,12 +9421,6 @@
     "done": true
   },
   "everycomp:recipes/decorations/faf/regions_unexplored/joshua_beehive": {
-    "criteria": {
-      "has_planks": "2025-01-08 23:31:35 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/joshua_vertical_slab_1": {
     "criteria": {
       "has_planks": "2025-01-08 23:31:35 +0000"
     },
@@ -9636,12 +9487,6 @@
     "done": true
   },
   "everycomp:recipes/decorations/mcfur/regions_unexplored/stripped_joshua_desk": {
-    "criteria": {
-      "has_planks": "2025-01-08 23:31:35 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/vertical_joshua_planks": {
     "criteria": {
       "has_planks": "2025-01-08 23:31:35 +0000"
     },
@@ -9806,6 +9651,144 @@
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2025-01-08 23:36:08 +0000"
+    },
+    "done": true
+  },
+  "mcde:recipes/decorations/roll_bench": {
+    "criteria": {
+      "has_lapis": "2025-01-09 01:25:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-01-09 01:19:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-09 01:19:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-09 01:19:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-09 01:25:59 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/wolf_armor_leggings": {
+    "criteria": {
+      "has_wolf_pelt": "2025-01-09 01:19:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
+    "criteria": {
+      "has_hyssop": "2025-01-09 01:26:58 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_blue": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-09 01:25:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_daisy": {
+    "criteria": {
+      "has_daisy": "2025-01-09 01:26:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-09 01:25:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/magenta_dye_from_fireweed": {
+    "criteria": {
+      "has_fireweed": "2025-01-09 01:29:18 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2025-01-09 01:19:38 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2025-01-09 01:19:31 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/wolf_armor_boots": {
+    "criteria": {
+      "has_wolf_pelt": "2025-01-09 01:19:39 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-01-09 01:26:58 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/wolf_armor_helmet": {
+    "criteria": {
+      "has_wolf_pelt": "2025-01-09 01:19:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-09 01:19:38 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-01-09 01:19:31 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/wolf_armor_chestplate": {
+    "criteria": {
+      "has_wolf_pelt": "2025-01-09 01:19:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-09 01:25:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-01-09 01:25:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-09 01:19:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-09 01:25:59 +0000"
     },
     "done": true
   },

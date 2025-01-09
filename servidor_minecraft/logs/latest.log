@@ -3731,3 +3731,6 @@ io.netty.channel.StacklessClosedChannelException: null
 [09Jan2025 05:05:24.776] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/s2c/OpenGuiRequest$Type
 [09Jan2025 05:07:24.034] [pool-3-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
 [09Jan2025 05:27:38.076] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[09Jan2025 05:54:50.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hank_218 has made the advancement [Bonfire Lit]
+[09Jan2025 06:03:01.422] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hank_218 lost connection: Disconnected
+[09Jan2025 06:03:01.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hank_218 left the game

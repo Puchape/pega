@@ -4085,6 +4085,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-09 04:58:39 +0000",
       "minecraft:skeleton": "2025-01-09 01:24:12 +0000",
       "minecraft:creeper": "2025-01-09 01:23:22 +0000",
       "minecraft:silverfish": "2025-01-08 04:13:00 +0000",
@@ -8621,6 +8622,12 @@
   "aether:recipes/combat/chainmail_boots_repairing": {
     "criteria": {
       "has_chainmail_boots": "2025-01-09 04:34:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-01-09 04:56:19 +0000"
     },
     "done": true
   },

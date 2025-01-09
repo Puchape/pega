@@ -3721,3 +3721,8 @@ io.netty.channel.StacklessClosedChannelException: null
 [09Jan2025 04:51:16.683] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
 [09Jan2025 04:51:23.016] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
 [09Jan2025 04:52:08.614] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[09Jan2025 04:57:55.526] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[09Jan2025 05:00:27.495] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/raid/Raid$RaidStatus
+[09Jan2025 05:01:20.379] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[09Jan2025 05:02:55.092] [Server thread/INFO] [org.dimdev.dimdoors.pockets.generator.SchematicGenerator/]: Generating pocket from template dimdoors:dungeon/ruins_pressure_plate_riddle at location BlockPos{x=-272, y=0, z=1776}
+[09Jan2025 05:02:55.265] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/dimdev/dimdoors/api/util/math/MathUtil$EulerAngleDirection

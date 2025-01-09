@@ -3734,3 +3734,9 @@ io.netty.channel.StacklessClosedChannelException: null
 [09Jan2025 05:54:50.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hank_218 has made the advancement [Bonfire Lit]
 [09Jan2025 06:03:01.422] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hank_218 lost connection: Disconnected
 [09Jan2025 06:03:01.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hank_218 left the game
+[09Jan2025 06:32:37.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elaurus has made the advancement [Cover Me with Diamonds]
+[09Jan2025 06:33:35.491] [Worker-Main-21/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/world/gen/FallenLogGenerator$Decor
+[09Jan2025 06:35:07.789] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1701, y=44, z=-5004} but found not block entity block Block{minecraft:water}[level=0] at location
+[09Jan2025 06:35:07.789] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-1701, y=44, z=-5004}
+[09Jan2025 06:35:37.578] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/object/PlayState
+[09Jan2025 06:46:00.026] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Anastasya}[style={}] has been infected

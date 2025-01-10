@@ -54,6 +54,7 @@
       "willow_forest": "2025-01-08 02:55:42 +0000",
       "frozen_tundra": "2025-01-10 03:05:20 +0000",
       "rocky_reef": "2025-01-08 03:00:52 +0000",
+      "barley_fields": "2025-01-10 03:38:11 +0000",
       "grassy_beach": "2025-01-08 02:18:27 +0000",
       "blackwood_taiga": "2025-01-08 01:35:26 +0000",
       "rocky_meadow": "2025-01-08 03:27:29 +0000",
@@ -67,6 +68,7 @@
       "temperate_grove": "2025-01-08 02:55:20 +0000",
       "cold_river": "2025-01-08 03:41:25 +0000",
       "spires": "2025-01-10 02:45:00 +0000",
+      "prairie": "2025-01-10 03:37:13 +0000",
       "gravel_beach": "2025-01-08 01:38:40 +0000",
       "icy_heights": "2025-01-10 02:56:38 +0000",
       "lupine_plains": "2025-01-08 02:54:37 +0000"
@@ -86,6 +88,7 @@
       "willow_forest": "2025-01-08 02:55:42 +0000",
       "frozen_tundra": "2025-01-10 03:05:20 +0000",
       "rocky_reef": "2025-01-08 03:00:52 +0000",
+      "barley_fields": "2025-01-10 03:38:11 +0000",
       "grassy_beach": "2025-01-08 02:18:27 +0000",
       "blackwood_taiga": "2025-01-08 01:35:26 +0000",
       "rocky_meadow": "2025-01-08 03:27:29 +0000",
@@ -99,6 +102,7 @@
       "temperate_grove": "2025-01-08 02:55:20 +0000",
       "cold_river": "2025-01-08 03:41:25 +0000",
       "spires": "2025-01-10 02:45:00 +0000",
+      "prairie": "2025-01-10 03:37:13 +0000",
       "gravel_beach": "2025-01-08 01:38:40 +0000",
       "icy_heights": "2025-01-10 02:56:38 +0000",
       "lupine_plains": "2025-01-08 02:54:37 +0000"
@@ -4262,6 +4266,7 @@
       "minecraft:snowy_beach": "2025-01-10 03:12:21 +0000",
       "minecraft:windswept_savanna": "2025-01-08 03:13:52 +0000",
       "minecraft:warm_ocean": "2025-01-08 03:13:35 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-01-10 03:34:07 +0000",
       "minecraft:frozen_peaks": "2025-01-10 03:22:12 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-08 02:17:31 +0000",
       "minecraft:savanna": "2025-01-08 03:21:41 +0000",
@@ -13412,6 +13417,24 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_shivering_bow": {
+    "criteria": {
+      "has_base_bow": "2025-01-10 03:29:20 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2025-01-10 03:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-10 03:43:21 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/sandstone_bridge": {
     "criteria": {
       "has_planks": "2025-01-10 02:37:49 +0000"
@@ -13502,6 +13525,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-01-10 03:43:21 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_sandstone_bridge": {
     "criteria": {
       "has_planks": "2025-01-10 02:37:49 +0000"
@@ -13520,6 +13549,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-01-10 03:34:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-01-10 02:37:49 +0000"
@@ -13532,9 +13567,27 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-01-10 03:36:16 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-01-10 03:34:39 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/feather_block": {
     "criteria": {
       "has_feather": "2025-01-10 02:46:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-10 03:43:21 +0000"
     },
     "done": true
   },
@@ -13610,9 +13663,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-10 03:43:21 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_dart": {
     "criteria": {
       "has_feather": "2025-01-10 02:46:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-10 03:43:21 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-01-10 03:34:46 +0000"
     },
     "done": true
   },
@@ -13625,6 +13696,12 @@
   "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
     "criteria": {
       "has_diamond_ore": "2025-01-10 02:52:04 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "old_eye": "2025-01-10 03:50:32 +0000"
     },
     "done": true
   },

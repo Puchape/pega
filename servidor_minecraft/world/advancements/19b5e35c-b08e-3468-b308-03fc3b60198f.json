@@ -60,6 +60,7 @@
       "magnolia_highlands": "2025-01-08 02:55:02 +0000",
       "joshua_desert": "2025-01-08 03:16:12 +0000",
       "boreal_forest": "2025-01-08 01:46:23 +0000",
+      "cold_boreal_taiga": "2025-01-10 02:42:48 +0000",
       "temperate_grove": "2025-01-08 02:55:20 +0000",
       "cold_river": "2025-01-08 03:41:25 +0000",
       "gravel_beach": "2025-01-08 01:38:40 +0000",
@@ -86,6 +87,7 @@
       "magnolia_highlands": "2025-01-08 02:55:02 +0000",
       "joshua_desert": "2025-01-08 03:16:12 +0000",
       "boreal_forest": "2025-01-08 01:46:23 +0000",
+      "cold_boreal_taiga": "2025-01-10 02:42:48 +0000",
       "temperate_grove": "2025-01-08 02:55:20 +0000",
       "cold_river": "2025-01-08 03:41:25 +0000",
       "gravel_beach": "2025-01-08 01:38:40 +0000",
@@ -4236,6 +4238,7 @@
       "minecraft:jagged_peaks": "2025-01-10 02:19:23 +0000",
       "minecraft:cold_ocean": "2025-01-08 01:42:00 +0000",
       "minecraft:forest": "2025-01-08 02:58:15 +0000",
+      "minecraft:lush_caves": "2025-01-10 02:40:52 +0000",
       "minecraft:desert": "2025-01-08 03:17:16 +0000",
       "minecraft:jungle": "2025-01-08 03:18:40 +0000",
       "minecraft:ocean": "2025-01-08 03:24:46 +0000",
@@ -13370,15 +13373,171 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 02:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 02:37:49 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/transportation/benchcart": {
+    "criteria": {
+      "hasitem": "2025-01-10 02:36:10 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-10 02:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-01-10 02:36:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 02:37:49 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/fox": {
     "criteria": {
       "has_sweet_berries": "2025-01-10 02:22:54 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 02:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-01-10 02:36:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-10 02:36:10 +0000"
+    },
+    "done": true
+  },
+  "dimdoors:dimdoors/enter_limbo": {
+    "criteria": {
+      "enter_limbo": "2025-01-10 02:38:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-01-10 02:36:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 02:37:49 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-10 02:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 02:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-10 02:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 02:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 02:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-10 02:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 02:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 02:37:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/sweet_berry_cookie": {
     "criteria": {
       "has_sweet_berries": "2025-01-10 02:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-01-10 02:36:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 02:37:49 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/transportation/jukeboxcart": {
+    "criteria": {
+      "hasitem": "2025-01-10 02:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-01-10 02:37:49 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-10 02:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-10 02:36:10 +0000"
     },
     "done": true
   },

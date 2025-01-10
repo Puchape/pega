@@ -4471,3 +4471,13 @@ BCLib - The End  BiomeSource (248d2b24)
 [10Jan2025 02:55:43.323] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
 [10Jan2025 02:56:08.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Elaurus> una araña me tiro pocion de veneno de 40 s
 [10Jan2025 02:56:13.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ItsShadowXx> ai carbon
+[10Jan2025 02:56:40.452] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[10Jan2025 03:01:53.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4518ms or 90 ticks behind
+[10Jan2025 03:04:03.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Elaurus> soy un certified esquimal
+[10Jan2025 03:04:09.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ItsShadowXx> hielito
+[10Jan2025 03:04:14.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ItsShadowXx> 🧊
+[10Jan2025 03:04:19.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Elaurus> tengo como 5 shiba
+[10Jan2025 03:05:04.589] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[10Jan2025 03:05:13.207] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-11812, y=17, z=45327} but found not block entity block Block{minecraft:water}[level=8] at location
+[10Jan2025 03:05:13.207] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-11812, y=17, z=45327}
+[10Jan2025 03:05:17.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Elaurus> Un leopardo ql

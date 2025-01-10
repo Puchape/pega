@@ -65,6 +65,7 @@
       "cold_river": "2025-01-08 03:41:25 +0000",
       "spires": "2025-01-10 02:45:00 +0000",
       "gravel_beach": "2025-01-08 01:38:40 +0000",
+      "icy_heights": "2025-01-10 02:56:38 +0000",
       "lupine_plains": "2025-01-08 02:54:37 +0000"
     },
     "done": false
@@ -93,6 +94,7 @@
       "cold_river": "2025-01-08 03:41:25 +0000",
       "spires": "2025-01-10 02:45:00 +0000",
       "gravel_beach": "2025-01-08 01:38:40 +0000",
+      "icy_heights": "2025-01-10 02:56:38 +0000",
       "lupine_plains": "2025-01-08 02:54:37 +0000"
     },
     "done": false
@@ -4229,6 +4231,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-01-08 01:37:10 +0000",
+      "minecraft:taiga": "2025-01-10 02:57:35 +0000",
       "minecraft:deep_ocean": "2025-01-08 23:24:18 +0000",
       "minecraft:frozen_river": "2025-01-10 02:44:42 +0000",
       "minecraft:sunflower_plains": "2025-01-08 03:25:05 +0000",
@@ -4237,6 +4240,7 @@
       "minecraft:river": "2025-01-08 01:37:28 +0000",
       "minecraft:lukewarm_ocean": "2025-01-08 23:14:45 +0000",
       "minecraft:stony_shore": "2025-01-09 03:16:47 +0000",
+      "minecraft:snowy_taiga": "2025-01-10 02:58:22 +0000",
       "minecraft:grove": "2025-01-10 02:19:49 +0000",
       "minecraft:jagged_peaks": "2025-01-10 02:19:23 +0000",
       "minecraft:cold_ocean": "2025-01-08 01:42:00 +0000",
@@ -4599,6 +4603,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-01-08 02:27:38 +0000",
+      "sweet_berries": "2025-01-10 02:57:19 +0000",
       "apple": "2025-01-08 02:20:44 +0000",
       "cooked_cod": "2025-01-08 01:42:38 +0000",
       "pumpkin_pie": "2025-01-08 03:02:44 +0000",

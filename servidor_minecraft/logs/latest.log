@@ -4481,3 +4481,103 @@ BCLib - The End  BiomeSource (248d2b24)
 [10Jan2025 03:05:13.207] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-11812, y=17, z=45327} but found not block entity block Block{minecraft:water}[level=8] at location
 [10Jan2025 03:05:13.207] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-11812, y=17, z=45327}
 [10Jan2025 03:05:17.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Elaurus> Un leopardo ql
+[10Jan2025 03:08:37.488] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[10Jan2025 03:08:40.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 0.5800578344969836
+[10Jan2025 03:08:40.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 1.5059031374275946
+[10Jan2025 03:08:40.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 2.2985129789267376
+[10Jan2025 03:08:40.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 3.1999038532849227
+[10Jan2025 03:08:40.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 0.33381525142067403
+[10Jan2025 03:08:40.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 1.2926310093371285
+[10Jan2025 03:08:40.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 0.8257952146523166
+[10Jan2025 03:08:40.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 0.2628273447844549
+[10Jan2025 03:08:40.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 0.8413932663897867
+[10Jan2025 03:08:40.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 0.32397883826342877
+[10Jan2025 03:08:44.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsShadowXx has made the advancement [Enchanter]
+[10Jan2025 03:08:46.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 0.6868703243526397
+[10Jan2025 03:08:46.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 1.5845092701129033
+[10Jan2025 03:08:46.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 1.8377378320656135
+[10Jan2025 03:08:46.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 1.8377378320656135
+[10Jan2025 03:08:46.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 1.6939771550496516
+[10Jan2025 03:08:46.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 1.032396244643678
+[10Jan2025 03:08:46.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 0.41070252790632367
+[10Jan2025 03:08:48.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 0.3438665840822068
+[10Jan2025 03:08:48.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 0.5839598769489385
+[10Jan2025 03:08:48.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 0.796049916638367
+[10Jan2025 03:08:48.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 1.0376536975290946
+[10Jan2025 03:08:48.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 1.1875769741873228
+[10Jan2025 03:12:15.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 0.38348463180409453
+[10Jan2025 03:12:16.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 1.5215019474344444
+[10Jan2025 03:12:16.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 2.813480652337603
+[10Jan2025 03:12:16.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 1.3116238895909191
+[10Jan2025 03:12:16.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 2.6064241999138176
+[10Jan2025 03:12:16.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 1.2339999128944328
+[10Jan2025 03:12:17.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 1.3576387677676394
+[10Jan2025 03:12:17.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 2.5824402195066796
+[10Jan2025 03:12:17.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 3.8771203319483902
+[10Jan2025 03:12:17.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 5.2090840111341095
+[10Jan2025 03:12:18.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 0.8527052591161919
+[10Jan2025 03:12:18.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 2.2447426528160577
+[10Jan2025 03:12:18.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 1.0571562847835594
+[10Jan2025 03:12:18.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 2.2647949232705287
+[10Jan2025 03:12:18.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 0.9950465640431503
+[10Jan2025 03:12:18.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 2.149642371761729
+[10Jan2025 03:12:18.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 3.3227529206924373
+[10Jan2025 03:12:23.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 0.8713340265149236
+[10Jan2025 03:12:23.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 2.447339903545928
+[10Jan2025 03:12:23.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 4.045305868619583
+[10Jan2025 03:12:23.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 5.6464065954161144
+[10Jan2025 03:12:23.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 0.5378778201702517
+[10Jan2025 03:12:23.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 0.3542733542708447
+[10Jan2025 03:12:23.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 2.0108131248929224
+[10Jan2025 03:12:23.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 3.70091816102556
+[10Jan2025 03:12:34.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 0.9216226200733217
+[10Jan2025 03:12:34.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 2.2011561468752916
+[10Jan2025 03:12:34.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 3.3798436008873978
+[10Jan2025 03:12:34.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 4.67561387684691
+[10Jan2025 03:12:34.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 0.4639209420129191
+[10Jan2025 03:12:34.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 0.32816576623008586
+[10Jan2025 03:12:45.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 0.40769046547211474
+[10Jan2025 03:12:45.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 1.2558891009321087
+[10Jan2025 03:12:45.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 2.2058247603781638
+[10Jan2025 03:12:45.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 3.1045792033619364
+[10Jan2025 03:12:45.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 4.031296920562454
+[10Jan2025 03:12:45.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 1.182760505209444
+[10Jan2025 03:12:51.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 0.4656361046945676
+[10Jan2025 03:12:51.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 1.7183519494792563
+[10Jan2025 03:12:51.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 3.166288002030342
+[10Jan2025 03:12:51.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 4.458805540612957
+[10Jan2025 03:12:51.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 5.90806531933049
+[10Jan2025 03:12:51.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 1.3888166780307074
+[10Jan2025 03:12:51.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 2.744423293224827
+[10Jan2025 03:12:59.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 0.6401384927557956
+[10Jan2025 03:12:59.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 1.6056708679916483
+[10Jan2025 03:12:59.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 2.5585778128042875
+[10Jan2025 03:12:59.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 3.4983884973717068
+[10Jan2025 03:12:59.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 4.478478421420732
+[10Jan2025 03:12:59.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 0.28061631817763555
+[10Jan2025 03:13:04.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 0.45425189203524496
+[10Jan2025 03:13:04.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 0.7364233883927227
+[10Jan2025 03:13:04.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 3.3386467165037175
+[10Jan2025 03:13:04.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 2.026363313299953
+[10Jan2025 03:13:04.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 3.376586576443515
+[10Jan2025 03:13:04.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 2.0510889321085415
+[10Jan2025 03:13:04.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elaurus) moved wrongly! 0.7461969044379657
+[10Jan2025 03:14:50.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Elaurus> MAGO DE HIELOOOO!!!
+[10Jan2025 03:14:52.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Elaurus> AAAAAAAAAAAAAA
+[10Jan2025 03:15:10.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elaurus has made the advancement [I was here, i lived, i..]
+[10Jan2025 03:15:10.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elaurus has completed the challenge [The Magicians]
+[10Jan2025 03:15:18.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ItsShadowXx> uao
+[10Jan2025 03:15:37.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Elaurus> ME QUITO MITAD DE VIDA
+[10Jan2025 03:15:39.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Elaurus> ctm
+[10Jan2025 03:15:39.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ItsShadowXx> XD
+[10Jan2025 03:17:20.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ItsShadowXx> voy a hacerme casa bajo el agua
+[10Jan2025 03:17:28.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ItsShadowXx> pa q presti la mochila esponja despue
+[10Jan2025 03:17:33.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Elaurus> el old
+[10Jan2025 03:17:40.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ItsShadowXx> los old
+[10Jan2025 03:18:51.472] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.BiasedToBottomHeight/]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[10Jan2025 03:19:00.845] [Server thread/INFO] [org.dimdev.dimdoors.pockets.generator.SchematicGenerator/]: Generating pocket from template dimdoors:classic/ruins/small_desert at location BlockPos{x=2288, y=0, z=1776}
+[10Jan2025 03:19:00.889] [Server thread/ERROR] [org.dimdev.dimdoors.network.ServerPacketHandler/]: java.lang.NullPointerException: Unknown message type! org.dimdev.dimdoors.network.packet.s2c.SyncPocketAddonsS2CPacket@3e657c3a
+[10Jan2025 03:20:45.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2546ms or 50 ticks behind
+[10Jan2025 03:24:10.656] [pool-9-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=-11461, y=108, z=46261}
+[10Jan2025 03:24:13.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[10Jan2025 03:24:13.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elaurus moved too quickly! -0.7247477399378113,2.0,10.032557527047175

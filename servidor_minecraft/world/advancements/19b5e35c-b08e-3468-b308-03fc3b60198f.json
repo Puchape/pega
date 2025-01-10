@@ -46,17 +46,20 @@
       "silver_birch_forest": "2025-01-08 03:41:17 +0000",
       "shrubland": "2025-01-08 02:58:21 +0000",
       "dry_bushland": "2025-01-08 02:59:51 +0000",
+      "cold_deciduous_forest": "2025-01-10 03:22:00 +0000",
       "steppe": "2025-01-08 03:05:30 +0000",
       "pine_taiga": "2025-01-08 01:10:52 +0000",
       "muddy_river": "2025-01-08 02:44:47 +0000",
       "autumnal_maple_forest": "2025-01-08 03:47:14 +0000",
       "willow_forest": "2025-01-08 02:55:42 +0000",
+      "frozen_tundra": "2025-01-10 03:05:20 +0000",
       "rocky_reef": "2025-01-08 03:00:52 +0000",
       "grassy_beach": "2025-01-08 02:18:27 +0000",
       "blackwood_taiga": "2025-01-08 01:35:26 +0000",
       "rocky_meadow": "2025-01-08 03:27:29 +0000",
       "ochard": "2025-01-09 03:17:56 +0000",
       "maple_forest": "2025-01-08 03:29:13 +0000",
+      "frozen_pine_taiga": "2025-01-10 03:12:45 +0000",
       "magnolia_highlands": "2025-01-08 02:55:02 +0000",
       "joshua_desert": "2025-01-08 03:16:12 +0000",
       "boreal_forest": "2025-01-08 01:46:23 +0000",
@@ -75,17 +78,20 @@
       "silver_birch_forest": "2025-01-08 03:41:17 +0000",
       "shrubland": "2025-01-08 02:58:21 +0000",
       "dry_bushland": "2025-01-08 02:59:51 +0000",
+      "cold_deciduous_forest": "2025-01-10 03:22:00 +0000",
       "steppe": "2025-01-08 03:05:30 +0000",
       "pine_taiga": "2025-01-08 01:10:52 +0000",
       "muddy_river": "2025-01-08 02:44:47 +0000",
       "autumnal_maple_forest": "2025-01-08 03:47:14 +0000",
       "willow_forest": "2025-01-08 02:55:42 +0000",
+      "frozen_tundra": "2025-01-10 03:05:20 +0000",
       "rocky_reef": "2025-01-08 03:00:52 +0000",
       "grassy_beach": "2025-01-08 02:18:27 +0000",
       "blackwood_taiga": "2025-01-08 01:35:26 +0000",
       "rocky_meadow": "2025-01-08 03:27:29 +0000",
       "ochard": "2025-01-09 03:17:56 +0000",
       "maple_forest": "2025-01-08 03:29:13 +0000",
+      "frozen_pine_taiga": "2025-01-10 03:12:45 +0000",
       "magnolia_highlands": "2025-01-08 02:55:02 +0000",
       "joshua_desert": "2025-01-08 03:16:12 +0000",
       "boreal_forest": "2025-01-08 01:46:23 +0000",
@@ -4078,6 +4084,7 @@
       "minecraft:cave_spider": "2025-01-09 04:30:40 +0000",
       "minecraft:silverfish": "2025-01-08 04:12:57 +0000",
       "minecraft:enderman": "2025-01-09 00:41:59 +0000",
+      "minecraft:stray": "2025-01-10 03:07:05 +0000",
       "minecraft:vex": "2025-01-09 01:13:11 +0000",
       "minecraft:zombie": "2025-01-08 01:27:48 +0000",
       "minecraft:drowned": "2025-01-08 01:45:37 +0000"
@@ -4230,6 +4237,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-01-10 03:13:23 +0000",
       "minecraft:old_growth_pine_taiga": "2025-01-08 01:37:10 +0000",
       "minecraft:taiga": "2025-01-10 02:57:35 +0000",
       "minecraft:deep_ocean": "2025-01-08 23:24:18 +0000",
@@ -4240,6 +4248,7 @@
       "minecraft:river": "2025-01-08 01:37:28 +0000",
       "minecraft:lukewarm_ocean": "2025-01-08 23:14:45 +0000",
       "minecraft:stony_shore": "2025-01-09 03:16:47 +0000",
+      "minecraft:snowy_plains": "2025-01-10 03:09:03 +0000",
       "minecraft:snowy_taiga": "2025-01-10 02:58:22 +0000",
       "minecraft:grove": "2025-01-10 02:19:49 +0000",
       "minecraft:jagged_peaks": "2025-01-10 02:19:23 +0000",
@@ -4250,8 +4259,10 @@
       "minecraft:jungle": "2025-01-08 03:18:40 +0000",
       "minecraft:ocean": "2025-01-08 03:24:46 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-08 01:46:26 +0000",
+      "minecraft:snowy_beach": "2025-01-10 03:12:21 +0000",
       "minecraft:windswept_savanna": "2025-01-08 03:13:52 +0000",
       "minecraft:warm_ocean": "2025-01-08 03:13:35 +0000",
+      "minecraft:frozen_peaks": "2025-01-10 03:22:12 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-08 02:17:31 +0000",
       "minecraft:savanna": "2025-01-08 03:21:41 +0000",
       "minecraft:plains": "2025-01-08 02:58:17 +0000"
@@ -11625,9 +11636,10 @@
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
       "killed_evoker": "2025-01-09 01:13:12 +0000",
-      "killed_illusioner": "2025-01-09 00:49:18 +0000"
+      "killed_illusioner": "2025-01-09 00:49:18 +0000",
+      "killed_iceologer": "2025-01-10 03:15:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "friendsandfoes:adventure/kill_illusioner": {
     "criteria": {
@@ -13433,6 +13445,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-01-10 02:37:49 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_iceologer": {
+    "criteria": {
+      "killed_iceologer": "2025-01-10 03:15:10 +0000"
     },
     "done": true
   },

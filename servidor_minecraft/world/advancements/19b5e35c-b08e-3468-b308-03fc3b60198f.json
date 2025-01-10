@@ -67,6 +67,7 @@
       "cold_boreal_taiga": "2025-01-10 02:42:48 +0000",
       "temperate_grove": "2025-01-08 02:55:20 +0000",
       "cold_river": "2025-01-08 03:41:25 +0000",
+      "baobab_savanna": "2025-01-10 03:59:56 +0000",
       "spires": "2025-01-10 02:45:00 +0000",
       "prairie": "2025-01-10 03:37:13 +0000",
       "gravel_beach": "2025-01-08 01:38:40 +0000",
@@ -101,6 +102,7 @@
       "cold_boreal_taiga": "2025-01-10 02:42:48 +0000",
       "temperate_grove": "2025-01-08 02:55:20 +0000",
       "cold_river": "2025-01-08 03:41:25 +0000",
+      "baobab_savanna": "2025-01-10 03:59:56 +0000",
       "spires": "2025-01-10 02:45:00 +0000",
       "prairie": "2025-01-10 03:37:13 +0000",
       "gravel_beach": "2025-01-08 01:38:40 +0000",
@@ -13471,6 +13473,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-01-10 03:58:55 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:adventure/kill_iceologer": {
     "criteria": {
       "killed_iceologer": "2025-01-10 03:15:10 +0000"
@@ -13486,6 +13494,12 @@
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2025-01-10 02:36:10 +0000"
+    },
+    "done": true
+  },
+  "sandwichable:sandwichable/sandwich_table": {
+    "criteria": {
+      "table": "2025-01-10 03:55:44 +0000"
     },
     "done": true
   },
@@ -13648,6 +13662,12 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-01-10 02:52:28 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/fishing_rod_repairing": {
+    "criteria": {
+      "has_fishing_rod": "2025-01-10 03:59:32 +0000"
     },
     "done": true
   },

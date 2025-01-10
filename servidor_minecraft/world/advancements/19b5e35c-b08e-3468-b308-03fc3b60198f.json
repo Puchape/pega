@@ -63,6 +63,7 @@
       "cold_boreal_taiga": "2025-01-10 02:42:48 +0000",
       "temperate_grove": "2025-01-08 02:55:20 +0000",
       "cold_river": "2025-01-08 03:41:25 +0000",
+      "spires": "2025-01-10 02:45:00 +0000",
       "gravel_beach": "2025-01-08 01:38:40 +0000",
       "lupine_plains": "2025-01-08 02:54:37 +0000"
     },
@@ -90,6 +91,7 @@
       "cold_boreal_taiga": "2025-01-10 02:42:48 +0000",
       "temperate_grove": "2025-01-08 02:55:20 +0000",
       "cold_river": "2025-01-08 03:41:25 +0000",
+      "spires": "2025-01-10 02:45:00 +0000",
       "gravel_beach": "2025-01-08 01:38:40 +0000",
       "lupine_plains": "2025-01-08 02:54:37 +0000"
     },
@@ -4228,6 +4230,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-01-08 01:37:10 +0000",
       "minecraft:deep_ocean": "2025-01-08 23:24:18 +0000",
+      "minecraft:frozen_river": "2025-01-10 02:44:42 +0000",
       "minecraft:sunflower_plains": "2025-01-08 03:25:05 +0000",
       "minecraft:beach": "2025-01-08 01:37:42 +0000",
       "minecraft:dark_forest": "2025-01-08 01:35:48 +0000",
@@ -4604,6 +4607,7 @@
       "rotten_flesh": "2025-01-08 02:08:07 +0000",
       "cookie": "2025-01-09 04:58:56 +0000",
       "golden_carrot": "2025-01-08 02:53:41 +0000",
+      "cooked_chicken": "2025-01-10 02:47:43 +0000",
       "mushroom_stew": "2025-01-08 03:28:17 +0000",
       "cooked_salmon": "2025-01-08 01:57:36 +0000"
     },
@@ -13409,6 +13413,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-01-10 02:50:29 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/fox": {
     "criteria": {
       "has_sweet_berries": "2025-01-10 02:22:54 +0000"
@@ -13433,15 +13443,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-01-10 02:52:04 +0000"
+    },
+    "done": true
+  },
   "dimdoors:dimdoors/enter_limbo": {
     "criteria": {
       "enter_limbo": "2025-01-10 02:38:49 +0000"
     },
     "done": true
   },
+  "mcdw:recipes/soul_daggers/soul_dagger_soul_knife": {
+    "criteria": {
+      "has_soul_lantern": "2025-01-10 02:50:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-01-10 02:36:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-01-10 02:46:45 +0000"
     },
     "done": true
   },
@@ -13472,6 +13500,18 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-01-10 02:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-01-10 02:52:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-01-10 02:46:45 +0000"
     },
     "done": true
   },
@@ -13517,9 +13557,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-10 02:52:28 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/transportation/jukeboxcart": {
     "criteria": {
       "hasitem": "2025-01-10 02:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-10 02:52:28 +0000"
     },
     "done": true
   },
@@ -13535,9 +13587,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-01-10 02:46:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2025-01-10 02:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-01-10 02:52:04 +0000"
     },
     "done": true
   },

@@ -4279,3 +4279,7 @@ BCLib - The End  BiomeSource (500e589f)
 [13Jan2025 05:22:49.089] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
 [13Jan2025 05:25:11.088] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
 [13Jan2025 05:30:09.345] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/s2c/OpenGuiRequest$Type
+[13Jan2025 05:58:56.988] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[13Jan2025 05:59:31.590] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[13Jan2025 05:59:32.762] [Worker-Main-35/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[13Jan2025 06:00:07.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elaurus has made the advancement [Crops of the Wild]

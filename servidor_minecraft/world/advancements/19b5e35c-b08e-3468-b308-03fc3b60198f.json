@@ -13810,6 +13810,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_hoe_repairing": {
+    "criteria": {
+      "has_iron_hoe": "2025-01-13 05:28:06 +0000"
+    },
+    "done": true
+  },
   "quark:get_all_blossom_saplings": {
     "criteria": {
       "yellow": "2025-01-13 05:20:22 +0000"

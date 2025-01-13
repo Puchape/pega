@@ -4287,3 +4287,4 @@ BCLib - The End  BiomeSource (500e589f)
 [13Jan2025 07:34:11.496] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id mythicmounts:geckotoalizard
 [13Jan2025 07:34:11.513] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
 [13Jan2025 07:34:16.043] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id mythicmounts:dragon
+[13Jan2025 07:46:58.594] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase

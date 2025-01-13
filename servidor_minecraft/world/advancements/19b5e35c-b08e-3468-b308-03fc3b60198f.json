@@ -13811,6 +13811,150 @@
     },
     "done": true
   },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "yellow": "2025-01-13 05:20:22 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/tools/iron_hoe_repairing": {
+    "criteria": {
+      "has_iron_hoe": "2025-01-13 05:28:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2025-01-13 05:39:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-13 05:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-13 05:39:53 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_double": {
+    "criteria": {
+      "has_slime_ball": "2025-01-13 05:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-13 05:39:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-01-13 06:00:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-01-13 06:00:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-01-13 06:00:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-01-13 06:00:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-13 06:00:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-01-13 06:00:07 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/loam": {
+    "criteria": {
+      "has_clay_ball": "2025-01-13 06:00:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-01-13 06:00:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-01-13 06:00:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-13 07:11:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-13 07:11:46 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_helmet": {
+    "criteria": {
+      "has_ink_sac": "2025-01-13 07:31:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-01-13 07:31:03 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_boots": {
+    "criteria": {
+      "has_ink_sac": "2025-01-13 07:31:03 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_chestplate": {
+    "criteria": {
+      "has_ink_sac": "2025-01-13 07:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-01-13 07:31:03 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_leggings": {
+    "criteria": {
+      "has_ink_sac": "2025-01-13 07:31:03 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/mcd/quark/blossom_mystic_door": {
     "criteria": {
       "has_planks": "2025-01-13 08:19:46 +0000"
@@ -13859,12 +14003,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-01-13 05:39:53 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcd/quark/blossom_nether_door": {
     "criteria": {
       "has_planks": "2025-01-13 08:19:46 +0000"
@@ -13874,12 +14012,6 @@
   "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_wardrobe": {
     "criteria": {
       "has_planks": "2025-01-13 08:19:46 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/iron_hoe_repairing": {
-    "criteria": {
-      "has_iron_hoe": "2025-01-13 05:28:06 +0000"
     },
     "done": true
   },
@@ -13925,12 +14057,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/barbecue_stick": {
-    "criteria": {
-      "has_tomato": "2025-01-13 06:00:07 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/quark/blossom_drawer": {
     "criteria": {
       "has_planks": "2025-01-13 08:19:46 +0000"
@@ -13943,39 +14069,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-01-13 05:39:53 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcd/quark/blossom_japanese_door": {
     "criteria": {
       "has_planks": "2025-01-13 08:19:46 +0000"
     },
     "done": true
   },
-  "mcda:recipes/base_armors/squid_armor_helmet": {
-    "criteria": {
-      "has_ink_sac": "2025-01-13 07:31:03 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_modern_desk": {
     "criteria": {
       "has_planks": "2025-01-13 08:19:46 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/squid": {
-    "criteria": {
-      "has_ink_sac": "2025-01-13 07:31:03 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/loam": {
-    "criteria": {
-      "has_clay_ball": "2025-01-13 06:00:25 +0000"
     },
     "done": true
   },
@@ -14009,12 +14111,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/tomato_sauce": {
-    "criteria": {
-      "has_tomato": "2025-01-13 06:00:07 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_desk": {
     "criteria": {
       "has_planks": "2025-01-13 08:19:46 +0000"
@@ -14033,12 +14129,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-01-13 07:11:46 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_double_wardrobe": {
     "criteria": {
       "has_planks": "2025-01-13 08:19:46 +0000"
@@ -14051,12 +14141,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/tomato_crate": {
-    "criteria": {
-      "has_tomato": "2025-01-13 06:00:07 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/quark/blossom_stool_chair": {
     "criteria": {
       "has_planks": "2025-01-13 08:19:46 +0000"
@@ -14066,18 +14150,6 @@
   "everycomp:recipes/decorations/mcd/quark/blossom_four_panel_door": {
     "criteria": {
       "has_planks": "2025-01-13 08:19:46 +0000"
-    },
-    "done": true
-  },
-  "quark:get_all_blossom_saplings": {
-    "criteria": {
-      "yellow": "2025-01-13 05:20:22 +0000"
-    },
-    "done": false
-  },
-  "mcdw:recipes/double_axes/double_axe_double": {
-    "criteria": {
-      "has_slime_ball": "2025-01-13 05:39:53 +0000"
     },
     "done": true
   },
@@ -14120,12 +14192,6 @@
   "everycomp:recipes/decorations/tf/quark/hollow_blossom_log": {
     "criteria": {
       "has_planks": "2025-01-13 08:19:46 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/squid_armor_boots": {
-    "criteria": {
-      "has_ink_sac": "2025-01-13 07:31:03 +0000"
     },
     "done": true
   },
@@ -14201,12 +14267,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-01-13 06:00:25 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcb/quark/blossom_bridge_pier": {
     "criteria": {
       "has_planks": "2025-01-13 08:19:46 +0000"
@@ -14252,12 +14312,6 @@
   "everycomp:recipes/decorations/mcfur/quark/blossom_counter": {
     "criteria": {
       "has_planks": "2025-01-13 08:19:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-01-13 06:00:25 +0000"
     },
     "done": true
   },
@@ -14321,12 +14375,6 @@
     },
     "done": true
   },
-  "aether:recipes/tools/iron_shovel_repairing": {
-    "criteria": {
-      "has_iron_shovel": "2025-01-13 05:39:11 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcf/quark/blossom_stockade_fence": {
     "criteria": {
       "has_planks": "2025-01-13 08:19:46 +0000"
@@ -14387,18 +14435,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "tomato_seeds": "2025-01-13 06:00:07 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/squid_armor_chestplate": {
-    "criteria": {
-      "has_ink_sac": "2025-01-13 07:31:03 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/quark/blossom_coffee_table": {
     "criteria": {
       "has_planks": "2025-01-13 08:19:46 +0000"
@@ -14417,39 +14453,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/squid_ink_pasta": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-13 06:00:07 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/quark/blossom_double_drawer_counter": {
     "criteria": {
       "has_planks": "2025-01-13 08:19:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2025-01-13 07:31:03 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/squid_armor_leggings": {
-    "criteria": {
-      "has_ink_sac": "2025-01-13 07:31:03 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcf/quark/blossom_picket_fence": {
     "criteria": {
       "has_planks": "2025-01-13 08:19:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-01-13 07:11:46 +0000"
     },
     "done": true
   },
@@ -14483,12 +14495,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-01-13 05:39:53 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_chair": {
     "criteria": {
       "has_planks": "2025-01-13 08:19:46 +0000"
@@ -14510,12 +14516,6 @@
   "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_bookshelf": {
     "criteria": {
       "has_planks": "2025-01-13 08:19:46 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/tomato_seeds": {
-    "criteria": {
-      "has_tomato": "2025-01-13 06:00:07 +0000"
     },
     "done": true
   },

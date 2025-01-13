@@ -4244,3 +4244,28 @@ BCLib - The End  BiomeSource (500e589f)
 [13Jan2025 04:56:25.738] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/object/PlayState
 [13Jan2025 04:56:25.996] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/faboslav/friendsandfoes/common/entity/animation/Transformation$Type
 [13Jan2025 04:57:01.135] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[13Jan2025 05:01:45.037] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elaurus lost connection: Disconnected
+[13Jan2025 05:01:45.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elaurus left the game
+[13Jan2025 05:04:42.282] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elaurus[/127.240.125.231:38489] logged in with entity id 11207 at (-255.30000001192093, 93.0, -4806.5371307810165)
+[13Jan2025 05:04:42.297] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[13Jan2025 05:04:42.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elaurus joined the game
+[13Jan2025 05:04:42.349] [Server thread/INFO] [Jade/]: Syncing config to Elaurus (19b5e35c-b08e-3468-b308-03fc3b60198f)
+[13Jan2025 05:04:42.520] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Async chunk loading for player Elaurus completed
+[13Jan2025 05:04:47.375] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[13Jan2025 05:04:47.375] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[13Jan2025 05:04:47.375] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[13Jan2025 05:04:47.375] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[13Jan2025 05:04:47.376] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[13Jan2025 05:04:47.376] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[13Jan2025 05:04:47.376] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[13Jan2025 05:04:47.376] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[13Jan2025 05:04:47.376] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[13Jan2025 05:04:47.376] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[13Jan2025 05:04:47.376] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[13Jan2025 05:04:47.376] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[13Jan2025 05:04:47.376] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[13Jan2025 05:04:47.376] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[13Jan2025 05:04:47.376] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[13Jan2025 05:04:47.376] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[13Jan2025 05:04:47.376] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[13Jan2025 05:04:47.376] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/pega/servidor_minecraft/bclib-sync (allowDelete=true)

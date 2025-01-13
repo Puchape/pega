@@ -5,12 +5,6 @@
     },
     "done": true
   },
-  "brbm:sugar_cane/remove_interaction": {
-    "criteria": {
-      "requirement": "2025-01-13 04:36:56 +0000"
-    },
-    "done": true
-  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-01-08 01:10:51 +0000"
@@ -368,7 +362,8 @@
     "criteria": {
       "larch_log": "2025-01-08 01:57:58 +0000",
       "mauve_log": "2025-01-09 03:02:08 +0000",
-      "pine_log": "2025-01-08 01:15:50 +0000"
+      "pine_log": "2025-01-08 01:15:50 +0000",
+      "blackwood_log": "2025-01-13 04:57:06 +0000"
     },
     "done": false
   },
@@ -13005,18 +13000,6 @@
     },
     "done": false
   },
-  "brbm:small_flowers/remove_interaction": {
-    "criteria": {
-      "requirement": "2025-01-13 04:35:27 +0000"
-    },
-    "done": true
-  },
-  "brbm:not_holding_bone_meal": {
-    "criteria": {
-      "requirement": "2025-01-13 04:46:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-09 06:24:09 +0000"
@@ -13770,6 +13753,60 @@
   "mcwfurnitures:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-01-10 04:16:25 +0000"
+    },
+    "done": true
+  },
+  "brbm:small_flowers/remove_interaction": {
+    "criteria": {
+      "requirement": "2025-01-13 04:35:27 +0000"
+    },
+    "done": true
+  },
+  "brbm:sugar_cane/remove_interaction": {
+    "criteria": {
+      "requirement": "2025-01-13 04:36:56 +0000"
+    },
+    "done": true
+  },
+  "brbm:not_holding_bone_meal": {
+    "criteria": {
+      "requirement": "2025-01-13 04:46:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blackwood_wood": {
+    "criteria": {
+      "has_log": "2025-01-13 04:57:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blackwood_planks": {
+    "criteria": {
+      "has_logs": "2025-01-13 04:57:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/blackwood_branch_from_blackwood_log": {
+    "criteria": {
+      "has_log": "2025-01-13 04:57:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-01-13 04:59:41 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_log_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-01-13 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/stone_brick_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-01-13 05:01:07 +0000"
     },
     "done": true
   },

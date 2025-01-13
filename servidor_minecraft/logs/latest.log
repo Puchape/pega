@@ -4269,3 +4269,12 @@ BCLib - The End  BiomeSource (500e589f)
 [13Jan2025 05:04:47.376] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
 [13Jan2025 05:04:47.376] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [13Jan2025 05:04:47.376] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/pega/servidor_minecraft/bclib-sync (allowDelete=true)
+[13Jan2025 05:17:57.444] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/base/handler/SortingHandler$ItemType
+[13Jan2025 05:22:43.788] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[13Jan2025 05:22:44.117] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/poly2tri/triangulation/TriangulationAlgorithm
+[13Jan2025 05:22:44.119] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/poly2tri/triangulation/TriangulationMode
+[13Jan2025 05:22:44.123] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/poly2tri/triangulation/TriangulationUtil$Orientation
+[13Jan2025 05:22:45.333] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[13Jan2025 05:22:49.041] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[13Jan2025 05:22:49.089] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
+[13Jan2025 05:25:11.088] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction

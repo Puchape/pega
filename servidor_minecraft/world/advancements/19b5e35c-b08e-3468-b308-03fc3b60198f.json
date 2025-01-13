@@ -13811,9 +13811,69 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcd/quark/blossom_mystic_door": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_lower_triple_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/blossom_triple_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/quark/blossom_japanese2_door": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/blossom_glass_table": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_triple_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/quark/blossom_beehive": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/blossom_modern_chair": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-01-13 05:39:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/quark/blossom_nether_door": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_wardrobe": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
     },
     "done": true
   },
@@ -13823,9 +13883,63 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcf/quark/blossom_highley_gate": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/quark/blossom_barn_door": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_covered_desk": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/blossom_modern_desk": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/blossom_drawer_counter": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_large_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_counter": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
       "has_tomato": "2025-01-13 06:00:07 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/blossom_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_bookshelf_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
     },
     "done": true
   },
@@ -13835,9 +13949,21 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcd/quark/blossom_japanese_door": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/squid_armor_helmet": {
     "criteria": {
       "has_ink_sac": "2025-01-13 07:31:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_modern_desk": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
     },
     "done": true
   },
@@ -13853,9 +13979,57 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcfur/quark/blossom_bookshelf_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/blossom_striped_chair": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/blossom_end_table": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/blossom_covered_desk": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/blossom_lower_triple_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/tomato_sauce": {
     "criteria": {
       "has_tomato": "2025-01-13 06:00:07 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_desk": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/quark/blossom_classic_door": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/quark/sign_post_blossom": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
     },
     "done": true
   },
@@ -13865,9 +14039,33 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_double_wardrobe": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_double_drawer_counter": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/tomato_crate": {
     "criteria": {
       "has_tomato": "2025-01-13 06:00:07 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/blossom_stool_chair": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/quark/blossom_four_panel_door": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
     },
     "done": true
   },
@@ -13883,9 +14081,123 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcb/quark/rope_blossom_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/blossom_modern_wardrobe": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/blossom_large_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/quark/blossom_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/blossom_table": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/quark/blossom_barn_glass_door": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/quark/hollow_blossom_log": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/squid_armor_boots": {
     "criteria": {
       "has_ink_sac": "2025-01-13 07:31:03 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/quark/blossom_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/ru/quark/blossom_branch": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_modern_chair": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/quark/blossom_bark_glass_door": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/quark/blossom_bamboo_door": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/quark/blossom_stable_head_door": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_end_table": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_modern_wardrobe": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/blossom_desk": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/quark/blossom_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/quark/blossom_ceiling_fan_light": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/quark/blossom_wired_fence": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
     },
     "done": true
   },
@@ -13895,15 +14207,183 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcb/quark/blossom_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/quark/blossom_glass_door": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/quark/blossom_stable_door": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/quark/blossom_modern_door": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/quark/blossom_horse_fence": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/blossom_lower_bookshelf_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/blossom_counter": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-01-13 06:00:25 +0000"
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_stool_chair": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/quark/blossom_beach_door": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_double_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/quark/blossom_window": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/quark/blossom_window_pane": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/blossom_chair": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/quark/blossom_log_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_cupboard_counter": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_bookshelf_cupboard": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/blossom_cupboard_counter": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/iron_shovel_repairing": {
     "criteria": {
       "has_iron_shovel": "2025-01-13 05:39:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/quark/blossom_stockade_fence": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/quark/blossom_banister": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/quark/blossom_tiki_torch": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/quark/blossom_cottage_door": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_lower_bookshelf_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_table": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/quark/blossom_paper_door": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/blossom_bookshelf_cupboard": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/quark/soul_blossom_tiki_torch": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
     },
     "done": true
   },
@@ -13919,9 +14399,33 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcfur/quark/blossom_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/quark/blossom_swamp_door": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/blossom_double_wardrobe": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2025-01-13 06:00:07 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/blossom_double_drawer_counter": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
     },
     "done": true
   },
@@ -13937,9 +14441,45 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcf/quark/blossom_picket_fence": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-01-13 07:11:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_drawer_counter": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcf/quark/blossom_pyramid_gate": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_striped_chair": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_glass_table": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/blossom_double_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
     },
     "done": true
   },
@@ -13949,9 +14489,51 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_chair": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcb/quark/blossom_rope_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/quark/blossom_waffle_door": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/stripped_blossom_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/tomato_seeds": {
     "criteria": {
       "has_tomato": "2025-01-13 06:00:07 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcfur/quark/blossom_wardrobe": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/quark/blossom_tropical_door": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcd/quark/blossom_western_door": {
+    "criteria": {
+      "has_planks": "2025-01-13 08:19:46 +0000"
     },
     "done": true
   },
